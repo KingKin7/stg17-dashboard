@@ -1,3 +1,9 @@
+**Live dashboard: <https://kingkin7.github.io/stg17-dashboard/>**
+
+Rebuilt by running the notebook in this repository against the source publication. Last published 2026-09-29.
+
+---
+
 # Population Census Results 2021
 
 Bilingual (EN/FR) dashboard built from **RÉSULTATS RGPH 2021**, pages 6, 10, 20.

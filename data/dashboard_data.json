@@ -9,8 +9,8 @@
    "fr": ""
   },
   "docTitle": {
-   "en": "ET DU DÉVELOPPEMENT Union-Discipline-Travail",
-   "fr": "ET DU DÉVELOPPEMENT Union-Discipline-Travail"
+   "en": "RÉSULTATS RGPH 2021",
+   "fr": "RÉSULTATS RGPH 2021"
   },
   "period": {
    "en": "",
@@ -31,101 +31,107 @@
  },
  "areas": [
   {
-   "id": "burkina-faso",
-   "fr": "Burkina-Faso",
-   "en": "Burkina Faso"
+   "id": "aboisso-aboisso",
+   "fr": "ABOISSO ABOISSO",
+   "en": "ABOISSO ABOISSO"
   },
   {
-   "id": "benin",
-   "fr": "Bénin",
-   "en": "Benin"
+   "id": "adaou",
+   "fr": "ADAOU",
+   "en": "ADAOU"
   },
   {
-   "id": "cote-d-ivoire",
-   "fr": "Côte d'Ivoire",
-   "en": "Côte d'Ivoire"
+   "id": "adiake-adiake",
+   "fr": "ADIAKE ADIAKE",
+   "en": "ADIAKE ADIAKE"
   },
   {
-   "id": "guinee-bissau",
-   "fr": "Guinée-Bissau",
-   "en": "Guinea-Bissau"
+   "id": "adjouan",
+   "fr": "ADJOUAN",
+   "en": "ADJOUAN"
   },
   {
-   "id": "ihpc",
-   "fr": "IHPC",
-   "en": "HICP"
+   "id": "assinie-mafia",
+   "fr": "ASSINIE-MAFIA",
+   "en": "ASSINIE-MAFIA"
   },
   {
-   "id": "inflation-moyenne-annuelle",
-   "fr": "Inflation moyenne annuelle",
-   "en": "Annual average inflation"
+   "id": "ayame",
+   "fr": "AYAME",
+   "en": "AYAME"
   },
   {
-   "id": "informationetcommunication",
-   "fr": "InformationetCommunication",
-   "en": "Information and Communication"
+   "id": "bianouan",
+   "fr": "BIANOUAN",
+   "en": "BIANOUAN"
   },
   {
-   "id": "mali",
-   "fr": "Mali",
-   "en": "Mali"
+   "id": "bonoua",
+   "fr": "BONOUA",
+   "en": "BONOUA"
   },
   {
-   "id": "niger",
-   "fr": "Niger",
-   "en": "Niger"
+   "id": "etueboue",
+   "fr": "ETUEBOUE",
+   "en": "ETUEBOUE"
   },
   {
-   "id": "produitsalimentairesetboissonsnonalcoolisees",
-   "fr": "Produitsalimentairesetboissonsnonalcoolisées",
-   "en": "Food and non‑alcoholic beverages"
+   "id": "grand-bassam",
+   "fr": "GRAND-BASSAM",
+   "en": "GRAND-BASSAM"
   },
   {
-   "id": "sante",
-   "fr": "Santé",
-   "en": "Health"
+   "id": "grand-bassam-bongo",
+   "fr": "GRAND-BASSAM BONGO",
+   "en": "GRAND-BASSAM BONGO"
   },
   {
-   "id": "senegal",
-   "fr": "Sénégal",
-   "en": "Senegal"
+   "id": "kouakro",
+   "fr": "KOUAKRO",
+   "en": "KOUAKRO"
   },
   {
-   "id": "togo",
-   "fr": "Togo",
-   "en": "Togo"
+   "id": "mafere",
+   "fr": "MAFERE",
+   "en": "MAFERE"
   },
   {
-   "id": "transports",
-   "fr": "Transports",
-   "en": "Transport"
+   "id": "nouamou",
+   "fr": "NOUAMOU",
+   "en": "NOUAMOU"
   },
   {
-   "id": "uemoa",
-   "fr": "UEMOA*",
-   "en": "UEMOA*"
+   "id": "tiapoum",
+   "fr": "TIAPOUM",
+   "en": "TIAPOUM"
   },
   {
-   "id": "lesprixdesproduitsenergetiques",
-   "fr": "lesprixdesproduitsénergétiques",
-   "en": "Energy product prices"
+   "id": "tiapoum-noe",
+   "fr": "TIAPOUM NOE",
+   "en": "TIAPOUM NOE"
   },
   {
-   "id": "produitsfrais",
-   "fr": "produitsfrais",
-   "en": "Fresh produce"
+   "id": "nat",
+   "fr": "Total ABOISSO",
+   "en": "Total ABOISSO",
+   "national": true
+  },
+  {
+   "id": "yaou",
+   "fr": "YAOU",
+   "en": "YAOU"
   }
  ],
  "kpis": [
   {
    "labels": {
-    "en": "Annual evolution – Information & Communication – July 2026",
-    "fr": "Évolution annuelle – Information et Communication – juillet 2026"
+    "en": "Total population – Total ABOISSO",
+    "fr": "Population totale – Total ABOISSO"
    },
-   "value": -1.3,
+   "value": 361842,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
    "delta": null,
    "deltaLabel": {
@@ -137,13 +143,13 @@
   },
   {
    "labels": {
-    "en": "Monthly evolution – IHPC – July 2026",
-    "fr": "Évolution mensuelle – IHPC – juillet 2026"
+    "en": "Total population – Total GRAND-BASSAM",
+    "fr": "Population totale – Total GRAND-BASSAM"
    },
-   "value": 0.1,
+   "value": 267103,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
    "delta": null,
    "deltaLabel": {
@@ -155,13 +161,13 @@
   },
   {
    "labels": {
-    "en": "Average annual inflation – July 2026",
-    "fr": "Inflation moyenne annuelle – juillet 2026"
+    "en": "Females – Total ABOISSO",
+    "fr": "Femmes – Total ABOISSO"
    },
-   "value": 0.9,
+   "value": 171461,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
    "delta": null,
    "deltaLabel": {
@@ -173,13 +179,13 @@
   },
   {
    "labels": {
-    "en": "Price‑level index – UEMOA* – avr‑26",
-    "fr": "Indice de niveau des prix – UEMOA* – avr‑26"
+    "en": "Males – Total ABOISSO",
+    "fr": "Hommes – Total ABOISSO"
    },
-   "value": 103.5,
+   "value": 190381,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
    "delta": null,
    "deltaLabel": {
@@ -191,1731 +197,1213 @@
   }
  ],
  "series": {
-  "evolutions_annuelles": {
+  "population": {
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
    "periods": [
-    "Juillet 2026"
+    "FEMMES",
+    "HOMMES",
+    "TOTAL"
    ],
    "values": {
-    "informationetcommunication": [
-     -1.3
-    ]
-   }
-  },
-  "evolutions_mensuelles": {
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "periods": [
-    "Juillet 2026"
-   ],
-   "values": {
-    "ihpc": [
-     0.1
+    "aboisso-aboisso": [
+     48447,
+     52456,
+     100903
     ],
-    "informationetcommunication": [
-     -0.7
+    "adaou": [
+     24886,
+     26164,
+     51050
     ],
-    "produitsalimentairesetboissonsnonalcoolisees": [
-     0.8
+    "adiake-adiake": [
+     24692,
+     25863,
+     50556
     ],
-    "sante": [
-     -0.4
+    "adjouan": [
+     14243,
+     14420,
+     28663
     ],
-    "transports": [
-     0.4
+    "assinie-mafia": [
+     10141,
+     11800,
+     21941
     ],
-    "lesprixdesproduitsenergetiques": [
-     -1.2
+    "ayame": [
+     13545,
+     14726,
+     28272
     ],
-    "produitsfrais": [
-     0.9
-    ]
-   }
-  },
-  "inflation_moyenne_annuelle": {
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "periods": [
-    "Juillet 2026"
-   ],
-   "values": {
-    "inflation-moyenne-annuelle": [
-     0.9
-    ]
-   }
-  },
-  "evolution_niveau_prix": {
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "periods": [
-    "1 mois",
-    "12 mois",
-    "3 mois",
-    "Pondération",
-    "avr-26",
-    "juin-25",
-    "juin-26",
-    "mai-26",
-    "mars-26"
-   ],
-   "values": {
-    "burkina-faso": [
-     1.9,
-     1.9,
-     3.4,
-     1046,
-     103.6,
-     105.0,
-     107.0,
-     105.0,
-     103.5
+    "bianouan": [
+     23510,
+     26137,
+     49647
     ],
-    "benin": [
-     0.1,
-     -0.4,
-     0.4,
-     959,
-     102.4,
-     103.2,
-     102.7,
-     102.6,
-     102.3
+    "bonoua": [
+     57270,
+     61118,
+     118388
     ],
-    "cote-d-ivoire": [
-     0.5,
-     1.8,
-     0.8,
-     3373,
-     105.0,
-     104.0,
-     105.8,
-     105.3,
-     105.0
+    "etueboue": [
+     7651,
+     7858,
+     15510
     ],
-    "guinee-bissau": [
-     0.1,
-     -0.6,
-     -0.5,
-     97,
-     103.7,
-     103.8,
-     103.2,
-     103.0,
-     103.7
+    "grand-bassam": [
+     61362,
+     63206,
+     124567
     ],
-    "mali": [
-     1.0,
-     -1.4,
-     2.2,
-     1148,
-     106.2,
-     109.6,
-     108.0,
-     107.0,
-     105.7
+    "grand-bassam-bongo": [
+     11046,
+     13102,
+     24148
     ],
-    "niger": [
-     1.8,
-     -2.9,
-     4.0,
-     943,
-     98.8,
-     105.2,
-     102.1,
-     100.3,
-     98.1
+    "kouakro": [
+     15007,
+     19678,
+     34685
     ],
-    "senegal": [
-     0.0,
-     0.4,
-     -0.3,
-     1827,
-     101.4,
-     101.2,
-     101.6,
-     101.6,
-     101.9
+    "mafere": [
+     21436,
+     24975,
+     46410
     ],
-    "togo": [
-     1.2,
-     0.1,
-     1.7,
-     607,
-     104.6,
-     106.1,
-     106.2,
-     105.0,
-     104.5
+    "nouamou": [
+     8740,
+     8663,
+     17403
     ],
-    "uemoa": [
-     0.7,
-     0.4,
-     1.3,
-     10000,
-     103.5,
-     104.4,
-     104.8,
-     104.0,
-     103.4
+    "tiapoum": [
+     12853,
+     13034,
+     25887
+    ],
+    "tiapoum-noe": [
+     12061,
+     12590,
+     24651
+    ],
+    "nat": [
+     33654,
+     34287,
+     67941
+    ],
+    "yaou": [
+     10387,
+     11825,
+     22213
     ]
    }
   }
  },
  "views": [
   {
-   "id": "evolutions_annuelles",
-   "chart": "bar",
-   "tab": {
-    "en": "Annual evolutions",
-    "fr": "Évolutions annuelles"
-   },
-   "title": {
-    "en": "Annual evolution – Information & Communication",
-    "fr": "Évolution annuelle – Information et Communication"
-   },
-   "sub": {
-    "en": "Variation in % for July 2026",
-    "fr": "Variation en % pour juillet 2026"
-   },
-   "lede": {
-    "en": "The annual evolution for the Information & Communication sector in July 2026 is shown.",
-    "fr": "L’évolution annuelle du secteur Information et Communication en juillet 2026 est présentée."
-   },
-   "src": {
-    "en": "",
-    "fr": ""
-   }
-  },
-  {
-   "id": "evolutions_mensuelles",
+   "id": "population",
    "chart": "grouped",
    "tab": {
-    "en": "Monthly evolutions",
-    "fr": "Évolutions mensuelles"
+    "en": "POPULATION RECENSÉE AU 14 DECEMBRE 2021",
+    "fr": "POPULATION RECENSÉE AU 14 DECEMBRE 2021"
    },
    "title": {
-    "en": "Monthly evolutions by sector – July 2026",
-    "fr": "Évolutions mensuelles par secteur – juillet 2026"
+    "en": "POPULATION RECENSÉE AU 14 DECEMBRE 2021",
+    "fr": "POPULATION RECENSÉE AU 14 DECEMBRE 2021"
    },
    "sub": {
-    "en": "Monthly change in % for each sector",
-    "fr": "Variation mensuelle en % pour chaque secteur"
+    "en": "persons",
+    "fr": "persons"
    },
    "lede": {
-    "en": "Monthly evolution for each sector in July 2026 is displayed.",
-    "fr": "L’évolution mensuelle de chaque secteur en juillet 2026 est affichée."
-   },
-   "src": {
     "en": "",
     "fr": ""
-   }
-  },
-  {
-   "id": "inflation_moyenne_annuelle",
-   "chart": "bar",
-   "tab": {
-    "en": "Average annual inflation",
-    "fr": "Inflation moyenne annuelle"
-   },
-   "title": {
-    "en": "Average annual inflation – July 2026",
-    "fr": "Inflation moyenne annuelle – juillet 2026"
-   },
-   "sub": {
-    "en": "Overall inflation rate in % for July 2026",
-    "fr": "Taux d’inflation global en % pour juillet 2026"
-   },
-   "lede": {
-    "en": "The average annual inflation rate for July 2026 is shown.",
-    "fr": "Le taux d’inflation moyenne annuelle pour juillet 2026 est présenté."
    },
    "src": {
-    "en": "",
-    "fr": ""
-   }
-  },
-  {
-   "id": "evolution_niveau_prix",
-   "chart": "bar",
-   "tab": {
-    "en": "Price‑level indices",
-    "fr": "Indices de prix"
-   },
-   "title": {
-    "en": "Price‑level indices by country and period",
-    "fr": "Indices de niveau des prix par pays et période"
-   },
-   "sub": {
-    "en": "Indices expressed in % for selected periods",
-    "fr": "Indices exprimés en % pour les périodes sélectionnées"
-   },
-   "lede": {
-    "en": "Price‑level indices for each country across the listed periods are presented.",
-    "fr": "Les indices de niveau des prix pour chaque pays selon les périodes listées sont présentés."
-   },
-   "src": {
-    "en": "",
-    "fr": ""
+    "en": "Source: RÉSULTATS RGPH 2021",
+    "fr": "Source : RÉSULTATS RGPH 2021"
    }
   }
  ],
  "facts": [
   {
-   "indicator": "evolutions_annuelles",
-   "area": "informationetcommunication",
-   "period": "Juillet 2026",
-   "value": -1.3,
+   "indicator": "population",
+   "area": "aboisso-aboisso",
+   "period": "HOMMES",
+   "value": 52456,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 4,
-   "snippet": "InformationetCommunication(-1,3%).",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolutions_mensuelles",
-   "area": "ihpc",
-   "period": "Juillet 2026",
-   "value": 0.1,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 4,
-   "snippet": "Relativementaumoisdejuin2026,l'IHPCdumoisdejuillet2026estenhaussede0,1%.Cettehausseestportéeparticulièrementparlesdivisions",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolutions_mensuelles",
-   "area": "produitsalimentairesetboissonsnonalcoolisees",
-   "period": "Juillet 2026",
-   "value": 0.8,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 4,
-   "snippet": "Produitsalimentairesetboissonsnonalcoolisées(+0,8%),Transports(+0,4%)etc.Toutefois,elleestattenuéeparlabaisseobservéeauniveaudes",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolutions_mensuelles",
-   "area": "transports",
-   "period": "Juillet 2026",
-   "value": 0.4,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 4,
-   "snippet": "Produitsalimentairesetboissonsnonalcoolisées(+0,8%),Transports(+0,4%)etc.Toutefois,elleestattenuéeparlabaisseobservéeauniveaudes",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolutions_mensuelles",
-   "area": "informationetcommunication",
-   "period": "Juillet 2026",
-   "value": -0.7,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 4,
-   "snippet": "divisionsInformationetCommunication(-0,7%)etSanté(-0,4%)etc.",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolutions_mensuelles",
-   "area": "sante",
-   "period": "Juillet 2026",
-   "value": -0.4,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 4,
-   "snippet": "divisionsInformationetCommunication(-0,7%)etSanté(-0,4%)etc.",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolutions_mensuelles",
-   "area": "lesprixdesproduitsenergetiques",
-   "period": "Juillet 2026",
-   "value": -1.2,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 4,
-   "snippet": "Enoutre,lesprixdesproduitsénergétiquesenregistrentunebaissede1,2%,contrairementauxproduitsfraisquirencherissementdesprixde0,9%.",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolutions_mensuelles",
-   "area": "produitsfrais",
-   "period": "Juillet 2026",
-   "value": 0.9,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 4,
-   "snippet": "Enoutre,lesprixdesproduitsénergétiquesenregistrentunebaissede1,2%,contrairementauxproduitsfraisquirencherissementdesprixde0,9%.",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "inflation_moyenne_annuelle",
-   "area": "inflation-moyenne-annuelle",
-   "period": "Juillet 2026",
-   "value": 0.9,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 4,
-   "snippet": "L'inflationenmoyenneannuellesesitueà(+0,9%)encemoisdejuillet2026,elleenregistreunelégèrehaussede0,2pointdepourcentagepar",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "inflation_moyenne_annuelle",
-   "area": "inflation-moyenne-annuelle",
-   "period": "Juillet 2026",
-   "value": 0.2,
-   "unit": {
-    "en": "point",
-    "fr": "point"
-   },
-   "page": 4,
-   "snippet": "L'inflationenmoyenneannuellesesitueà(+0,9%)encemoisdejuillet2026,elleenregistreunelégèrehaussede0,2pointdepourcentagepar",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "benin",
-   "period": "Pondération",
-   "value": 959,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 5,
-   "snippet": "Bénin 959 103,2 102,3 102,4 102,6 102,7 0,1 0,4 -0,4",
+   "page": 6,
+   "snippet": "ABOISSO ABOISSO 52 456 48 447 100 903 108 23 098 4 .3",
    "status": "warn",
    "note": {
-    "en": "unit 'None' not allowed for evolution_niveau_prix; 959 is outside the plausible range for evolution_niveau_prix",
-    "fr": "unit 'None' not allowed for evolution_niveau_prix; 959 is outside the plausible range for evolution_niveau_prix"
+    "en": "52456 is nowhere on the 'ABOISSO ABOISSO' row; that row reads [52.0, 456.0, 48447.0, 100.0, 903.0, 108.0] · parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "52456 is nowhere on the 'ABOISSO ABOISSO' row; that row reads [52.0, 456.0, 48447.0, 100.0, 903.0, 108.0] · parts sum to 407 615.0 but the document publishes 190 381.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "benin",
-   "period": "juin-25",
-   "value": 103.2,
+   "indicator": "population",
+   "area": "aboisso-aboisso",
+   "period": "FEMMES",
+   "value": 48447,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Bénin 959 103,2 102,3 102,4 102,6 102,7 0,1 0,4 -0,4",
+   "page": 6,
+   "snippet": "ABOISSO ABOISSO 52 456 48 447 100 903 108 23 098 4 .3",
    "status": "warn",
    "note": {
-    "en": "103.2 is outside the plausible range for evolution_niveau_prix",
-    "fr": "103.2 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "parts sum to 377 277.0 but the document publishes 171 461.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "benin",
-   "period": "mars-26",
-   "value": 102.3,
+   "indicator": "population",
+   "area": "aboisso-aboisso",
+   "period": "TOTAL",
+   "value": 100903,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Bénin 959 103,2 102,3 102,4 102,6 102,7 0,1 0,4 -0,4",
+   "page": 6,
+   "snippet": "ABOISSO ABOISSO 52 456 48 447 100 903 108 23 098 4 .3",
    "status": "warn",
    "note": {
-    "en": "102.3 is outside the plausible range for evolution_niveau_prix",
-    "fr": "102.3 is outside the plausible range for evolution_niveau_prix"
+    "en": "100903 is nowhere on the 'ABOISSO ABOISSO' row; that row reads [52.0, 456.0, 48447.0, 100.0, 903.0, 108.0] · parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "100903 is nowhere on the 'ABOISSO ABOISSO' row; that row reads [52.0, 456.0, 48447.0, 100.0, 903.0, 108.0] · parts sum to 784 894.0 but the document publishes 361 842.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "benin",
-   "period": "avr-26",
-   "value": 102.4,
+   "indicator": "population",
+   "area": "adaou",
+   "period": "HOMMES",
+   "value": 26164,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Bénin 959 103,2 102,3 102,4 102,6 102,7 0,1 0,4 -0,4",
+   "page": 6,
+   "snippet": "ADAOU 26 164 24 886 51 050 105 8 836 5 .8",
    "status": "warn",
    "note": {
-    "en": "102.4 is outside the plausible range for evolution_niveau_prix",
-    "fr": "102.4 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "parts sum to 407 615.0 but the document publishes 190 381.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "benin",
-   "period": "mai-26",
-   "value": 102.6,
+   "indicator": "population",
+   "area": "adaou",
+   "period": "FEMMES",
+   "value": 24886,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Bénin 959 103,2 102,3 102,4 102,6 102,7 0,1 0,4 -0,4",
+   "page": 6,
+   "snippet": "ADAOU 26 164 24 886 51 050 105 8 836 5 .8",
    "status": "warn",
    "note": {
-    "en": "102.6 is outside the plausible range for evolution_niveau_prix",
-    "fr": "102.6 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "parts sum to 377 277.0 but the document publishes 171 461.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "benin",
-   "period": "juin-26",
-   "value": 102.7,
+   "indicator": "population",
+   "area": "adaou",
+   "period": "TOTAL",
+   "value": 51050,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Bénin 959 103,2 102,3 102,4 102,6 102,7 0,1 0,4 -0,4",
+   "page": 6,
+   "snippet": "ADAOU 26 164 24 886 51 050 105 8 836 5 .8",
    "status": "warn",
    "note": {
-    "en": "102.7 is outside the plausible range for evolution_niveau_prix",
-    "fr": "102.7 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "parts sum to 784 894.0 but the document publishes 361 842.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "benin",
-   "period": "1 mois",
-   "value": 0.1,
+   "indicator": "population",
+   "area": "adjouan",
+   "period": "HOMMES",
+   "value": 14420,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Bénin 959 103,2 102,3 102,4 102,6 102,7 0,1 0,4 -0,4",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "benin",
-   "period": "3 mois",
-   "value": 0.4,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 5,
-   "snippet": "Bénin 959 103,2 102,3 102,4 102,6 102,7 0,1 0,4 -0,4",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "benin",
-   "period": "12 mois",
-   "value": -0.4,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 5,
-   "snippet": "Bénin 959 103,2 102,3 102,4 102,6 102,7 0,1 0,4 -0,4",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "burkina-faso",
-   "period": "Pondération",
-   "value": 1046,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 5,
-   "snippet": "Burkina-Faso 1046 105,0 103,5 103,6 105,0 107,0 1,9 3,4 1,9",
+   "page": 6,
+   "snippet": "ADJOUAN 14 420 14 243 28 663 101 5 347 5 .4",
    "status": "warn",
    "note": {
-    "en": "unit 'None' not allowed for evolution_niveau_prix; 1046 is outside the plausible range for evolution_niveau_prix",
-    "fr": "unit 'None' not allowed for evolution_niveau_prix; 1046 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "parts sum to 407 615.0 but the document publishes 190 381.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "burkina-faso",
-   "period": "juin-25",
-   "value": 105.0,
+   "indicator": "population",
+   "area": "adjouan",
+   "period": "FEMMES",
+   "value": 14243,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Burkina-Faso 1046 105,0 103,5 103,6 105,0 107,0 1,9 3,4 1,9",
+   "page": 6,
+   "snippet": "ADJOUAN 14 420 14 243 28 663 101 5 347 5 .4",
    "status": "warn",
    "note": {
-    "en": "105.0 is outside the plausible range for evolution_niveau_prix",
-    "fr": "105.0 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "parts sum to 377 277.0 but the document publishes 171 461.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "burkina-faso",
-   "period": "mars-26",
-   "value": 103.5,
+   "indicator": "population",
+   "area": "adjouan",
+   "period": "TOTAL",
+   "value": 28663,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Burkina-Faso 1046 105,0 103,5 103,6 105,0 107,0 1,9 3,4 1,9",
+   "page": 6,
+   "snippet": "ADJOUAN 14 420 14 243 28 663 101 5 347 5 .4",
    "status": "warn",
    "note": {
-    "en": "103.5 is outside the plausible range for evolution_niveau_prix",
-    "fr": "103.5 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "parts sum to 784 894.0 but the document publishes 361 842.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "burkina-faso",
-   "period": "avr-26",
-   "value": 103.6,
+   "indicator": "population",
+   "area": "ayame",
+   "period": "HOMMES",
+   "value": 14726,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Burkina-Faso 1046 105,0 103,5 103,6 105,0 107,0 1,9 3,4 1,9",
+   "page": 6,
+   "snippet": "AYAME 14 726 13 545 28 272 109 5 632 5 .0",
    "status": "warn",
    "note": {
-    "en": "103.6 is outside the plausible range for evolution_niveau_prix",
-    "fr": "103.6 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "parts sum to 407 615.0 but the document publishes 190 381.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "burkina-faso",
-   "period": "mai-26",
-   "value": 105.0,
+   "indicator": "population",
+   "area": "ayame",
+   "period": "FEMMES",
+   "value": 13545,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Burkina-Faso 1046 105,0 103,5 103,6 105,0 107,0 1,9 3,4 1,9",
+   "page": 6,
+   "snippet": "AYAME 14 726 13 545 28 272 109 5 632 5 .0",
    "status": "warn",
    "note": {
-    "en": "105.0 is outside the plausible range for evolution_niveau_prix",
-    "fr": "105.0 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "parts sum to 377 277.0 but the document publishes 171 461.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "burkina-faso",
-   "period": "juin-26",
-   "value": 107.0,
+   "indicator": "population",
+   "area": "ayame",
+   "period": "TOTAL",
+   "value": 28272,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Burkina-Faso 1046 105,0 103,5 103,6 105,0 107,0 1,9 3,4 1,9",
+   "page": 6,
+   "snippet": "AYAME 14 726 13 545 28 272 109 5 632 5 .0",
    "status": "warn",
    "note": {
-    "en": "107.0 is outside the plausible range for evolution_niveau_prix",
-    "fr": "107.0 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "parts sum to 784 894.0 but the document publishes 361 842.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "burkina-faso",
-   "period": "1 mois",
-   "value": 1.9,
+   "indicator": "population",
+   "area": "bianouan",
+   "period": "HOMMES",
+   "value": 26137,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Burkina-Faso 1046 105,0 103,5 103,6 105,0 107,0 1,9 3,4 1,9",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "burkina-faso",
-   "period": "3 mois",
-   "value": 3.4,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 5,
-   "snippet": "Burkina-Faso 1046 105,0 103,5 103,6 105,0 107,0 1,9 3,4 1,9",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "burkina-faso",
-   "period": "12 mois",
-   "value": 1.9,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 5,
-   "snippet": "Burkina-Faso 1046 105,0 103,5 103,6 105,0 107,0 1,9 3,4 1,9",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "cote-d-ivoire",
-   "period": "Pondération",
-   "value": 3373,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 5,
-   "snippet": "Côte d'Ivoire 3373 104,0 105,0 105,0 105,3 105,8 0,5 0,8 1,8",
+   "page": 6,
+   "snippet": "BIANOUAN 26 137 23 510 49 647 111 8 165 6 .1",
    "status": "warn",
    "note": {
-    "en": "unit 'None' not allowed for evolution_niveau_prix; 3373 is outside the plausible range for evolution_niveau_prix",
-    "fr": "unit 'None' not allowed for evolution_niveau_prix; 3373 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "parts sum to 407 615.0 but the document publishes 190 381.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "cote-d-ivoire",
-   "period": "juin-25",
-   "value": 104.0,
+   "indicator": "population",
+   "area": "bianouan",
+   "period": "FEMMES",
+   "value": 23510,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Côte d'Ivoire 3373 104,0 105,0 105,0 105,3 105,8 0,5 0,8 1,8",
+   "page": 6,
+   "snippet": "BIANOUAN 26 137 23 510 49 647 111 8 165 6 .1",
    "status": "warn",
    "note": {
-    "en": "104.0 is outside the plausible range for evolution_niveau_prix",
-    "fr": "104.0 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "parts sum to 377 277.0 but the document publishes 171 461.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "cote-d-ivoire",
-   "period": "mars-26",
-   "value": 105.0,
+   "indicator": "population",
+   "area": "bianouan",
+   "period": "TOTAL",
+   "value": 49647,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Côte d'Ivoire 3373 104,0 105,0 105,0 105,3 105,8 0,5 0,8 1,8",
+   "page": 6,
+   "snippet": "BIANOUAN 26 137 23 510 49 647 111 8 165 6 .1",
    "status": "warn",
    "note": {
-    "en": "105.0 is outside the plausible range for evolution_niveau_prix",
-    "fr": "105.0 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "parts sum to 784 894.0 but the document publishes 361 842.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "cote-d-ivoire",
-   "period": "avr-26",
-   "value": 105.0,
+   "indicator": "population",
+   "area": "kouakro",
+   "period": "HOMMES",
+   "value": 19678,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Côte d'Ivoire 3373 104,0 105,0 105,0 105,3 105,8 0,5 0,8 1,8",
+   "page": 6,
+   "snippet": "KOUAKRO 19 678 15 007 34 685 131 6 780 5 .0",
    "status": "warn",
    "note": {
-    "en": "105.0 is outside the plausible range for evolution_niveau_prix",
-    "fr": "105.0 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "parts sum to 407 615.0 but the document publishes 190 381.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "cote-d-ivoire",
-   "period": "mai-26",
-   "value": 105.3,
+   "indicator": "population",
+   "area": "kouakro",
+   "period": "FEMMES",
+   "value": 15007,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Côte d'Ivoire 3373 104,0 105,0 105,0 105,3 105,8 0,5 0,8 1,8",
+   "page": 6,
+   "snippet": "KOUAKRO 19 678 15 007 34 685 131 6 780 5 .0",
    "status": "warn",
    "note": {
-    "en": "105.3 is outside the plausible range for evolution_niveau_prix",
-    "fr": "105.3 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "parts sum to 377 277.0 but the document publishes 171 461.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "cote-d-ivoire",
-   "period": "juin-26",
-   "value": 105.8,
+   "indicator": "population",
+   "area": "kouakro",
+   "period": "TOTAL",
+   "value": 34685,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Côte d'Ivoire 3373 104,0 105,0 105,0 105,3 105,8 0,5 0,8 1,8",
+   "page": 6,
+   "snippet": "KOUAKRO 19 678 15 007 34 685 131 6 780 5 .0",
    "status": "warn",
    "note": {
-    "en": "105.8 is outside the plausible range for evolution_niveau_prix",
-    "fr": "105.8 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "parts sum to 784 894.0 but the document publishes 361 842.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "cote-d-ivoire",
-   "period": "1 mois",
-   "value": 0.5,
+   "indicator": "population",
+   "area": "mafere",
+   "period": "HOMMES",
+   "value": 24975,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Côte d'Ivoire 3373 104,0 105,0 105,0 105,3 105,8 0,5 0,8 1,8",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "cote-d-ivoire",
-   "period": "3 mois",
-   "value": 0.8,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 5,
-   "snippet": "Côte d'Ivoire 3373 104,0 105,0 105,0 105,3 105,8 0,5 0,8 1,8",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "cote-d-ivoire",
-   "period": "12 mois",
-   "value": 1.8,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 5,
-   "snippet": "Côte d'Ivoire 3373 104,0 105,0 105,0 105,3 105,8 0,5 0,8 1,8",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "guinee-bissau",
-   "period": "Pondération",
-   "value": 97,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 5,
-   "snippet": "Guinée-Bissau 97 103,8 103,7 103,7 103,0 103,2 0,1 -0,5 -0,6",
+   "page": 6,
+   "snippet": "MAFERE 24 975 21 436 46 410 117 10 134 4 .6",
    "status": "warn",
    "note": {
-    "en": "unit 'None' not allowed for evolution_niveau_prix",
-    "fr": "unit 'None' not allowed for evolution_niveau_prix"
+    "en": "parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "parts sum to 407 615.0 but the document publishes 190 381.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "guinee-bissau",
-   "period": "juin-25",
-   "value": 103.8,
+   "indicator": "population",
+   "area": "mafere",
+   "period": "FEMMES",
+   "value": 21436,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Guinée-Bissau 97 103,8 103,7 103,7 103,0 103,2 0,1 -0,5 -0,6",
+   "page": 6,
+   "snippet": "MAFERE 24 975 21 436 46 410 117 10 134 4 .6",
    "status": "warn",
    "note": {
-    "en": "103.8 is outside the plausible range for evolution_niveau_prix",
-    "fr": "103.8 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "parts sum to 377 277.0 but the document publishes 171 461.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "guinee-bissau",
-   "period": "mars-26",
-   "value": 103.7,
+   "indicator": "population",
+   "area": "mafere",
+   "period": "TOTAL",
+   "value": 46410,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Guinée-Bissau 97 103,8 103,7 103,7 103,0 103,2 0,1 -0,5 -0,6",
+   "page": 6,
+   "snippet": "MAFERE 24 975 21 436 46 410 117 10 134 4 .6",
    "status": "warn",
    "note": {
-    "en": "103.7 is outside the plausible range for evolution_niveau_prix",
-    "fr": "103.7 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "parts sum to 784 894.0 but the document publishes 361 842.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "guinee-bissau",
-   "period": "avr-26",
-   "value": 103.7,
+   "indicator": "population",
+   "area": "yaou",
+   "period": "HOMMES",
+   "value": 11825,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Guinée-Bissau 97 103,8 103,7 103,7 103,0 103,2 0,1 -0,5 -0,6",
+   "page": 6,
+   "snippet": "YAOU 11 825 10 387 22 213 114 3 749 5 .9",
    "status": "warn",
    "note": {
-    "en": "103.7 is outside the plausible range for evolution_niveau_prix",
-    "fr": "103.7 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "parts sum to 407 615.0 but the document publishes 190 381.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "guinee-bissau",
-   "period": "mai-26",
-   "value": 103.0,
+   "indicator": "population",
+   "area": "yaou",
+   "period": "FEMMES",
+   "value": 10387,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Guinée-Bissau 97 103,8 103,7 103,7 103,0 103,2 0,1 -0,5 -0,6",
+   "page": 6,
+   "snippet": "YAOU 11 825 10 387 22 213 114 3 749 5 .9",
    "status": "warn",
    "note": {
-    "en": "103.0 is outside the plausible range for evolution_niveau_prix",
-    "fr": "103.0 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "parts sum to 377 277.0 but the document publishes 171 461.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "guinee-bissau",
-   "period": "juin-26",
-   "value": 103.2,
+   "indicator": "population",
+   "area": "yaou",
+   "period": "TOTAL",
+   "value": 22213,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Guinée-Bissau 97 103,8 103,7 103,7 103,0 103,2 0,1 -0,5 -0,6",
+   "page": 6,
+   "snippet": "YAOU 11 825 10 387 22 213 114 3 749 5 .9",
    "status": "warn",
    "note": {
-    "en": "103.2 is outside the plausible range for evolution_niveau_prix",
-    "fr": "103.2 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "parts sum to 784 894.0 but the document publishes 361 842.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "guinee-bissau",
-   "period": "1 mois",
-   "value": 0.1,
+   "indicator": "population",
+   "area": "nat",
+   "period": "HOMMES",
+   "value": 190381,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Guinée-Bissau 97 103,8 103,7 103,7 103,0 103,2 0,1 -0,5 -0,6",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "guinee-bissau",
-   "period": "3 mois",
-   "value": -0.5,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 5,
-   "snippet": "Guinée-Bissau 97 103,8 103,7 103,7 103,0 103,2 0,1 -0,5 -0,6",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "guinee-bissau",
-   "period": "12 mois",
-   "value": -0.6,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 5,
-   "snippet": "Guinée-Bissau 97 103,8 103,7 103,7 103,0 103,2 0,1 -0,5 -0,6",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "mali",
-   "period": "Pondération",
-   "value": 1148,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 5,
-   "snippet": "Mali 1148 109,6 105,7 106,2 107,0 108,0 1,0 2,2 -1,4",
+   "page": 6,
+   "snippet": "Total ABOISSO 190 381 171 461 361 842 111 71 741 5 .0",
    "status": "warn",
    "note": {
-    "en": "unit 'None' not allowed for evolution_niveau_prix; 1148 is outside the plausible range for evolution_niveau_prix",
-    "fr": "unit 'None' not allowed for evolution_niveau_prix; 1148 is outside the plausible range for evolution_niveau_prix"
+    "en": "190381 is nowhere on the 'Total ABOISSO' row; that row reads [190.0, 381.0, 171461.0, 361.0, 842.0, 111.0] · parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "190381 is nowhere on the 'Total ABOISSO' row; that row reads [190.0, 381.0, 171461.0, 361.0, 842.0, 111.0] · parts sum to 407 615.0 but the document publishes 190 381.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "mali",
-   "period": "juin-25",
-   "value": 109.6,
+   "indicator": "population",
+   "area": "nat",
+   "period": "FEMMES",
+   "value": 171461,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Mali 1148 109,6 105,7 106,2 107,0 108,0 1,0 2,2 -1,4",
+   "page": 6,
+   "snippet": "Total ABOISSO 190 381 171 461 361 842 111 71 741 5 .0",
    "status": "warn",
    "note": {
-    "en": "109.6 is outside the plausible range for evolution_niveau_prix",
-    "fr": "109.6 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "parts sum to 377 277.0 but the document publishes 171 461.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "mali",
-   "period": "mars-26",
-   "value": 105.7,
+   "indicator": "population",
+   "area": "nat",
+   "period": "TOTAL",
+   "value": 361842,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Mali 1148 109,6 105,7 106,2 107,0 108,0 1,0 2,2 -1,4",
+   "page": 6,
+   "snippet": "Total ABOISSO 190 381 171 461 361 842 111 71 741 5 .0",
    "status": "warn",
    "note": {
-    "en": "105.7 is outside the plausible range for evolution_niveau_prix",
-    "fr": "105.7 is outside the plausible range for evolution_niveau_prix"
+    "en": "361842 is nowhere on the 'Total ABOISSO' row; that row reads [190.0, 381.0, 171461.0, 361.0, 842.0, 111.0] · parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "361842 is nowhere on the 'Total ABOISSO' row; that row reads [190.0, 381.0, 171461.0, 361.0, 842.0, 111.0] · parts sum to 784 894.0 but the document publishes 361 842.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "mali",
-   "period": "avr-26",
-   "value": 106.2,
+   "indicator": "population",
+   "area": "adiake-adiake",
+   "period": "HOMMES",
+   "value": 25863,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Mali 1148 109,6 105,7 106,2 107,0 108,0 1,0 2,2 -1,4",
+   "page": 6,
+   "snippet": "ADIAKE ADIAKE 25 863 24 692 50 556 105 10 651 4 .7",
    "status": "warn",
    "note": {
-    "en": "106.2 is outside the plausible range for evolution_niveau_prix",
-    "fr": "106.2 is outside the plausible range for evolution_niveau_prix"
+    "en": "25863 is nowhere on the 'ADIAKE ADIAKE' row; that row reads [25.0, 863.0, 24692.0, 50.0, 556.0, 105.0] · parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "25863 is nowhere on the 'ADIAKE ADIAKE' row; that row reads [25.0, 863.0, 24692.0, 50.0, 556.0, 105.0] · parts sum to 407 615.0 but the document publishes 190 381.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "mali",
-   "period": "mai-26",
-   "value": 107.0,
+   "indicator": "population",
+   "area": "adiake-adiake",
+   "period": "FEMMES",
+   "value": 24692,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Mali 1148 109,6 105,7 106,2 107,0 108,0 1,0 2,2 -1,4",
+   "page": 6,
+   "snippet": "ADIAKE ADIAKE 25 863 24 692 50 556 105 10 651 4 .7",
    "status": "warn",
    "note": {
-    "en": "107.0 is outside the plausible range for evolution_niveau_prix",
-    "fr": "107.0 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "parts sum to 377 277.0 but the document publishes 171 461.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "mali",
-   "period": "juin-26",
-   "value": 108.0,
+   "indicator": "population",
+   "area": "adiake-adiake",
+   "period": "TOTAL",
+   "value": 50556,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Mali 1148 109,6 105,7 106,2 107,0 108,0 1,0 2,2 -1,4",
+   "page": 6,
+   "snippet": "ADIAKE ADIAKE 25 863 24 692 50 556 105 10 651 4 .7",
    "status": "warn",
    "note": {
-    "en": "108.0 is outside the plausible range for evolution_niveau_prix",
-    "fr": "108.0 is outside the plausible range for evolution_niveau_prix"
+    "en": "50556 is nowhere on the 'ADIAKE ADIAKE' row; that row reads [25.0, 863.0, 24692.0, 50.0, 556.0, 105.0] · parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "50556 is nowhere on the 'ADIAKE ADIAKE' row; that row reads [25.0, 863.0, 24692.0, 50.0, 556.0, 105.0] · parts sum to 784 894.0 but the document publishes 361 842.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "mali",
-   "period": "1 mois",
-   "value": 1.0,
+   "indicator": "population",
+   "area": "assinie-mafia",
+   "period": "HOMMES",
+   "value": 11800,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Mali 1148 109,6 105,7 106,2 107,0 108,0 1,0 2,2 -1,4",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "mali",
-   "period": "3 mois",
-   "value": 2.2,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 5,
-   "snippet": "Mali 1148 109,6 105,7 106,2 107,0 108,0 1,0 2,2 -1,4",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "mali",
-   "period": "12 mois",
-   "value": -1.4,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 5,
-   "snippet": "Mali 1148 109,6 105,7 106,2 107,0 108,0 1,0 2,2 -1,4",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "niger",
-   "period": "Pondération",
-   "value": 943,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 5,
-   "snippet": "Niger 943 105,2 98,1 98,8 100,3 102,1 1,8 4,0 -2,9",
+   "page": 6,
+   "snippet": "ASSINIE-MAFIA 11 800 10 141 21 941 116 5 208 4 .1",
    "status": "warn",
    "note": {
-    "en": "unit 'None' not allowed for evolution_niveau_prix; 943 is outside the plausible range for evolution_niveau_prix",
-    "fr": "unit 'None' not allowed for evolution_niveau_prix; 943 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "parts sum to 407 615.0 but the document publishes 190 381.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "niger",
-   "period": "juin-25",
-   "value": 105.2,
+   "indicator": "population",
+   "area": "assinie-mafia",
+   "period": "FEMMES",
+   "value": 10141,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Niger 943 105,2 98,1 98,8 100,3 102,1 1,8 4,0 -2,9",
+   "page": 6,
+   "snippet": "ASSINIE-MAFIA 11 800 10 141 21 941 116 5 208 4 .1",
    "status": "warn",
    "note": {
-    "en": "105.2 is outside the plausible range for evolution_niveau_prix",
-    "fr": "105.2 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "parts sum to 377 277.0 but the document publishes 171 461.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "niger",
-   "period": "mars-26",
-   "value": 98.1,
+   "indicator": "population",
+   "area": "assinie-mafia",
+   "period": "TOTAL",
+   "value": 21941,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Niger 943 105,2 98,1 98,8 100,3 102,1 1,8 4,0 -2,9",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "niger",
-   "period": "avr-26",
-   "value": 98.8,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 5,
-   "snippet": "Niger 943 105,2 98,1 98,8 100,3 102,1 1,8 4,0 -2,9",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "niger",
-   "period": "mai-26",
-   "value": 100.3,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 5,
-   "snippet": "Niger 943 105,2 98,1 98,8 100,3 102,1 1,8 4,0 -2,9",
+   "page": 6,
+   "snippet": "ASSINIE-MAFIA 11 800 10 141 21 941 116 5 208 4 .1",
    "status": "warn",
    "note": {
-    "en": "100.3 is outside the plausible range for evolution_niveau_prix",
-    "fr": "100.3 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "parts sum to 784 894.0 but the document publishes 361 842.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "niger",
-   "period": "juin-26",
-   "value": 102.1,
+   "indicator": "population",
+   "area": "etueboue",
+   "period": "HOMMES",
+   "value": 7858,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Niger 943 105,2 98,1 98,8 100,3 102,1 1,8 4,0 -2,9",
+   "page": 6,
+   "snippet": "ETUEBOUE 7 858 7 651 15 510 103 2 541 6 .1",
    "status": "warn",
    "note": {
-    "en": "102.1 is outside the plausible range for evolution_niveau_prix",
-    "fr": "102.1 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "parts sum to 407 615.0 but the document publishes 190 381.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "niger",
-   "period": "1 mois",
-   "value": 1.8,
+   "indicator": "population",
+   "area": "etueboue",
+   "period": "FEMMES",
+   "value": 7651,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Niger 943 105,2 98,1 98,8 100,3 102,1 1,8 4,0 -2,9",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "niger",
-   "period": "3 mois",
-   "value": 4.0,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 5,
-   "snippet": "Niger 943 105,2 98,1 98,8 100,3 102,1 1,8 4,0 -2,9",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "niger",
-   "period": "12 mois",
-   "value": -2.9,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 5,
-   "snippet": "Niger 943 105,2 98,1 98,8 100,3 102,1 1,8 4,0 -2,9",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "senegal",
-   "period": "Pondération",
-   "value": 1827,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 5,
-   "snippet": "Sénégal 1827 101,2 101,9 101,4 101,6 101,6 0,0 -0,3 0,4",
+   "page": 6,
+   "snippet": "ETUEBOUE 7 858 7 651 15 510 103 2 541 6 .1",
    "status": "warn",
    "note": {
-    "en": "unit 'None' not allowed for evolution_niveau_prix; 1827 is outside the plausible range for evolution_niveau_prix",
-    "fr": "unit 'None' not allowed for evolution_niveau_prix; 1827 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "parts sum to 377 277.0 but the document publishes 171 461.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "senegal",
-   "period": "juin-25",
-   "value": 101.2,
+   "indicator": "population",
+   "area": "etueboue",
+   "period": "TOTAL",
+   "value": 15510,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Sénégal 1827 101,2 101,9 101,4 101,6 101,6 0,0 -0,3 0,4",
+   "page": 6,
+   "snippet": "ETUEBOUE 7 858 7 651 15 510 103 2 541 6 .1",
    "status": "warn",
    "note": {
-    "en": "101.2 is outside the plausible range for evolution_niveau_prix",
-    "fr": "101.2 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "parts sum to 784 894.0 but the document publishes 361 842.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "senegal",
-   "period": "mars-26",
-   "value": 101.9,
+   "indicator": "population",
+   "area": "nat",
+   "period": "HOMMES",
+   "value": 45522,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Sénégal 1827 101,2 101,9 101,4 101,6 101,6 0,0 -0,3 0,4",
+   "page": 6,
+   "snippet": "Total ADIAKE 45 522 42 484 88 006 107 18 400 4 .8",
    "status": "warn",
    "note": {
-    "en": "101.9 is outside the plausible range for evolution_niveau_prix",
-    "fr": "101.9 is outside the plausible range for evolution_niveau_prix"
+    "en": "45522 is nowhere on the 'Total ADIAKE' row; that row reads [45.0, 522.0, 42484.0, 88.0, 6.0, 107.0] · parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "45522 is nowhere on the 'Total ADIAKE' row; that row reads [45.0, 522.0, 42484.0, 88.0, 6.0, 107.0] · parts sum to 407 615.0 but the document publishes 190 381.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "senegal",
-   "period": "avr-26",
-   "value": 101.4,
+   "indicator": "population",
+   "area": "nat",
+   "period": "FEMMES",
+   "value": 42484,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Sénégal 1827 101,2 101,9 101,4 101,6 101,6 0,0 -0,3 0,4",
+   "page": 6,
+   "snippet": "Total ADIAKE 45 522 42 484 88 006 107 18 400 4 .8",
    "status": "warn",
    "note": {
-    "en": "101.4 is outside the plausible range for evolution_niveau_prix",
-    "fr": "101.4 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "parts sum to 377 277.0 but the document publishes 171 461.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "senegal",
-   "period": "mai-26",
-   "value": 101.6,
+   "indicator": "population",
+   "area": "nat",
+   "period": "TOTAL",
+   "value": 88006,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Sénégal 1827 101,2 101,9 101,4 101,6 101,6 0,0 -0,3 0,4",
+   "page": 6,
+   "snippet": "Total ADIAKE 45 522 42 484 88 006 107 18 400 4 .8",
    "status": "warn",
    "note": {
-    "en": "101.6 is outside the plausible range for evolution_niveau_prix",
-    "fr": "101.6 is outside the plausible range for evolution_niveau_prix"
+    "en": "88006 is nowhere on the 'Total ADIAKE' row; that row reads [45.0, 522.0, 42484.0, 88.0, 6.0, 107.0] · parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "88006 is nowhere on the 'Total ADIAKE' row; that row reads [45.0, 522.0, 42484.0, 88.0, 6.0, 107.0] · parts sum to 784 894.0 but the document publishes 361 842.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "senegal",
-   "period": "juin-26",
-   "value": 101.6,
+   "indicator": "population",
+   "area": "grand-bassam-bongo",
+   "period": "HOMMES",
+   "value": 13102,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Sénégal 1827 101,2 101,9 101,4 101,6 101,6 0,0 -0,3 0,4",
+   "page": 6,
+   "snippet": "GRAND-BASSAM BONGO 13 102 11 046 24 148 119 5 614 4 .3",
    "status": "warn",
    "note": {
-    "en": "101.6 is outside the plausible range for evolution_niveau_prix",
-    "fr": "101.6 is outside the plausible range for evolution_niveau_prix"
+    "en": "13102 is nowhere on the 'GRAND-BASSAM BONGO' row; that row reads [13.0, 102.0, 11046.0, 24.0, 148.0, 119.0] · parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "13102 is nowhere on the 'GRAND-BASSAM BONGO' row; that row reads [13.0, 102.0, 11046.0, 24.0, 148.0, 119.0] · parts sum to 407 615.0 but the document publishes 190 381.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "senegal",
-   "period": "1 mois",
-   "value": 0.0,
+   "indicator": "population",
+   "area": "grand-bassam-bongo",
+   "period": "FEMMES",
+   "value": 11046,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Sénégal 1827 101,2 101,9 101,4 101,6 101,6 0,0 -0,3 0,4",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "senegal",
-   "period": "3 mois",
-   "value": -0.3,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 5,
-   "snippet": "Sénégal 1827 101,2 101,9 101,4 101,6 101,6 0,0 -0,3 0,4",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "senegal",
-   "period": "12 mois",
-   "value": 0.4,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 5,
-   "snippet": "Sénégal 1827 101,2 101,9 101,4 101,6 101,6 0,0 -0,3 0,4",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "togo",
-   "period": "Pondération",
-   "value": 607,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 5,
-   "snippet": "Togo 607 106,1 104,5 104,6 105,0 106,2 1,2 1,7 0,1",
+   "page": 6,
+   "snippet": "GRAND-BASSAM BONGO 13 102 11 046 24 148 119 5 614 4 .3",
    "status": "warn",
    "note": {
-    "en": "unit 'None' not allowed for evolution_niveau_prix; 607 is outside the plausible range for evolution_niveau_prix",
-    "fr": "unit 'None' not allowed for evolution_niveau_prix; 607 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "parts sum to 377 277.0 but the document publishes 171 461.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "togo",
-   "period": "juin-25",
-   "value": 106.1,
+   "indicator": "population",
+   "area": "grand-bassam-bongo",
+   "period": "TOTAL",
+   "value": 24148,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Togo 607 106,1 104,5 104,6 105,0 106,2 1,2 1,7 0,1",
+   "page": 6,
+   "snippet": "GRAND-BASSAM BONGO 13 102 11 046 24 148 119 5 614 4 .3",
    "status": "warn",
    "note": {
-    "en": "106.1 is outside the plausible range for evolution_niveau_prix",
-    "fr": "106.1 is outside the plausible range for evolution_niveau_prix"
+    "en": "24148 is nowhere on the 'GRAND-BASSAM BONGO' row; that row reads [13.0, 102.0, 11046.0, 24.0, 148.0, 119.0] · parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "24148 is nowhere on the 'GRAND-BASSAM BONGO' row; that row reads [13.0, 102.0, 11046.0, 24.0, 148.0, 119.0] · parts sum to 784 894.0 but the document publishes 361 842.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "togo",
-   "period": "mars-26",
-   "value": 104.5,
+   "indicator": "population",
+   "area": "bonoua",
+   "period": "HOMMES",
+   "value": 61118,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Togo 607 106,1 104,5 104,6 105,0 106,2 1,2 1,7 0,1",
+   "page": 6,
+   "snippet": "BONOUA 61 118 57 270 118 388 107 27 302 4 .3",
    "status": "warn",
    "note": {
-    "en": "104.5 is outside the plausible range for evolution_niveau_prix",
-    "fr": "104.5 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "parts sum to 407 615.0 but the document publishes 190 381.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "togo",
-   "period": "avr-26",
-   "value": 104.6,
+   "indicator": "population",
+   "area": "bonoua",
+   "period": "FEMMES",
+   "value": 57270,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Togo 607 106,1 104,5 104,6 105,0 106,2 1,2 1,7 0,1",
+   "page": 6,
+   "snippet": "BONOUA 61 118 57 270 118 388 107 27 302 4 .3",
    "status": "warn",
    "note": {
-    "en": "104.6 is outside the plausible range for evolution_niveau_prix",
-    "fr": "104.6 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "parts sum to 377 277.0 but the document publishes 171 461.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "togo",
-   "period": "mai-26",
-   "value": 105.0,
+   "indicator": "population",
+   "area": "bonoua",
+   "period": "TOTAL",
+   "value": 118388,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Togo 607 106,1 104,5 104,6 105,0 106,2 1,2 1,7 0,1",
+   "page": 6,
+   "snippet": "BONOUA 61 118 57 270 118 388 107 27 302 4 .3",
    "status": "warn",
    "note": {
-    "en": "105.0 is outside the plausible range for evolution_niveau_prix",
-    "fr": "105.0 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "parts sum to 784 894.0 but the document publishes 361 842.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "togo",
-   "period": "juin-26",
-   "value": 106.2,
+   "indicator": "population",
+   "area": "grand-bassam",
+   "period": "HOMMES",
+   "value": 63206,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Togo 607 106,1 104,5 104,6 105,0 106,2 1,2 1,7 0,1",
+   "page": 6,
+   "snippet": "GRAND-BASSAM 63 206 61 362 124 567 103 27 232 4 .5",
    "status": "warn",
    "note": {
-    "en": "106.2 is outside the plausible range for evolution_niveau_prix",
-    "fr": "106.2 is outside the plausible range for evolution_niveau_prix"
+    "en": "63206 is nowhere on the 'GRAND-BASSAM' row; that row reads [13.0, 102.0, 11046.0, 24.0, 148.0, 119.0] · parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "63206 is nowhere on the 'GRAND-BASSAM' row; that row reads [13.0, 102.0, 11046.0, 24.0, 148.0, 119.0] · parts sum to 407 615.0 but the document publishes 190 381.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "togo",
-   "period": "1 mois",
-   "value": 1.2,
+   "indicator": "population",
+   "area": "grand-bassam",
+   "period": "FEMMES",
+   "value": 61362,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "Togo 607 106,1 104,5 104,6 105,0 106,2 1,2 1,7 0,1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "togo",
-   "period": "3 mois",
-   "value": 1.7,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 5,
-   "snippet": "Togo 607 106,1 104,5 104,6 105,0 106,2 1,2 1,7 0,1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "togo",
-   "period": "12 mois",
-   "value": 0.1,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 5,
-   "snippet": "Togo 607 106,1 104,5 104,6 105,0 106,2 1,2 1,7 0,1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "evolution_niveau_prix",
-   "area": "uemoa",
-   "period": "Pondération",
-   "value": 10000,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 5,
-   "snippet": "UEMOA* 10000 104,4 103,4 103,5 104,0 104,8 0,7 1,3 0,4",
+   "page": 6,
+   "snippet": "GRAND-BASSAM 63 206 61 362 124 567 103 27 232 4 .5",
    "status": "warn",
    "note": {
-    "en": "unit 'None' not allowed for evolution_niveau_prix; 10000 is outside the plausible range for evolution_niveau_prix",
-    "fr": "unit 'None' not allowed for evolution_niveau_prix; 10000 is outside the plausible range for evolution_niveau_prix"
+    "en": "61362 is nowhere on the 'GRAND-BASSAM' row; that row reads [13.0, 102.0, 11046.0, 24.0, 148.0, 119.0] · parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "61362 is nowhere on the 'GRAND-BASSAM' row; that row reads [13.0, 102.0, 11046.0, 24.0, 148.0, 119.0] · parts sum to 377 277.0 but the document publishes 171 461.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "uemoa",
-   "period": "juin-25",
-   "value": 104.4,
+   "indicator": "population",
+   "area": "grand-bassam",
+   "period": "TOTAL",
+   "value": 124567,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "UEMOA* 10000 104,4 103,4 103,5 104,0 104,8 0,7 1,3 0,4",
+   "page": 6,
+   "snippet": "GRAND-BASSAM 63 206 61 362 124 567 103 27 232 4 .5",
    "status": "warn",
    "note": {
-    "en": "104.4 is outside the plausible range for evolution_niveau_prix",
-    "fr": "104.4 is outside the plausible range for evolution_niveau_prix"
+    "en": "124567 is nowhere on the 'GRAND-BASSAM' row; that row reads [13.0, 102.0, 11046.0, 24.0, 148.0, 119.0] · parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "124567 is nowhere on the 'GRAND-BASSAM' row; that row reads [13.0, 102.0, 11046.0, 24.0, 148.0, 119.0] · parts sum to 784 894.0 but the document publishes 361 842.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "uemoa",
-   "period": "mars-26",
-   "value": 103.4,
+   "indicator": "population",
+   "area": "nat",
+   "period": "HOMMES",
+   "value": 137425,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "UEMOA* 10000 104,4 103,4 103,5 104,0 104,8 0,7 1,3 0,4",
+   "page": 6,
+   "snippet": "Total GRAND-BASSAM 137 425 129 678 267 103 106 60 148 4 .4",
    "status": "warn",
    "note": {
-    "en": "103.4 is outside the plausible range for evolution_niveau_prix",
-    "fr": "103.4 is outside the plausible range for evolution_niveau_prix"
+    "en": "137425 is nowhere on the 'Total GRAND-BASSAM' row; that row reads [137.0, 425.0, 129678.0, 267.0, 103.0, 106.0] · parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "137425 is nowhere on the 'Total GRAND-BASSAM' row; that row reads [137.0, 425.0, 129678.0, 267.0, 103.0, 106.0] · parts sum to 407 615.0 but the document publishes 190 381.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "uemoa",
-   "period": "avr-26",
-   "value": 103.5,
+   "indicator": "population",
+   "area": "nat",
+   "period": "FEMMES",
+   "value": 129678,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "UEMOA* 10000 104,4 103,4 103,5 104,0 104,8 0,7 1,3 0,4",
+   "page": 6,
+   "snippet": "Total GRAND-BASSAM 137 425 129 678 267 103 106 60 148 4 .4",
    "status": "warn",
    "note": {
-    "en": "103.5 is outside the plausible range for evolution_niveau_prix",
-    "fr": "103.5 is outside the plausible range for evolution_niveau_prix"
+    "en": "parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "parts sum to 377 277.0 but the document publishes 171 461.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "uemoa",
-   "period": "mai-26",
-   "value": 104.0,
+   "indicator": "population",
+   "area": "nat",
+   "period": "TOTAL",
+   "value": 267103,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "UEMOA* 10000 104,4 103,4 103,5 104,0 104,8 0,7 1,3 0,4",
+   "page": 6,
+   "snippet": "Total GRAND-BASSAM 137 425 129 678 267 103 106 60 148 4 .4",
    "status": "warn",
    "note": {
-    "en": "104.0 is outside the plausible range for evolution_niveau_prix",
-    "fr": "104.0 is outside the plausible range for evolution_niveau_prix"
+    "en": "267103 is nowhere on the 'Total GRAND-BASSAM' row; that row reads [137.0, 425.0, 129678.0, 267.0, 103.0, 106.0] · parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "267103 is nowhere on the 'Total GRAND-BASSAM' row; that row reads [137.0, 425.0, 129678.0, 267.0, 103.0, 106.0] · parts sum to 784 894.0 but the document publishes 361 842.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "uemoa",
-   "period": "juin-26",
-   "value": 104.8,
+   "indicator": "population",
+   "area": "tiapoum-noe",
+   "period": "HOMMES",
+   "value": 12590,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "UEMOA* 10000 104,4 103,4 103,5 104,0 104,8 0,7 1,3 0,4",
+   "page": 6,
+   "snippet": "TIAPOUM NOE 12 590 12 061 24 651 104 4 335 5 .7",
    "status": "warn",
    "note": {
-    "en": "104.8 is outside the plausible range for evolution_niveau_prix",
-    "fr": "104.8 is outside the plausible range for evolution_niveau_prix"
+    "en": "12590 is nowhere on the 'TIAPOUM NOE' row; that row reads [12.0, 590.0, 12061.0, 24.0, 651.0, 104.0] · parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "12590 is nowhere on the 'TIAPOUM NOE' row; that row reads [12.0, 590.0, 12061.0, 24.0, 651.0, 104.0] · parts sum to 407 615.0 but the document publishes 190 381.0"
    }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "uemoa",
-   "period": "1 mois",
-   "value": 0.7,
+   "indicator": "population",
+   "area": "tiapoum-noe",
+   "period": "FEMMES",
+   "value": 12061,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "UEMOA* 10000 104,4 103,4 103,5 104,0 104,8 0,7 1,3 0,4",
-   "status": "ok",
-   "note": null
+   "page": 6,
+   "snippet": "TIAPOUM NOE 12 590 12 061 24 651 104 4 335 5 .7",
+   "status": "warn",
+   "note": {
+    "en": "parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "parts sum to 377 277.0 but the document publishes 171 461.0"
+   }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "uemoa",
-   "period": "3 mois",
-   "value": 1.3,
+   "indicator": "population",
+   "area": "tiapoum-noe",
+   "period": "TOTAL",
+   "value": 24651,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "UEMOA* 10000 104,4 103,4 103,5 104,0 104,8 0,7 1,3 0,4",
-   "status": "ok",
-   "note": null
+   "page": 6,
+   "snippet": "TIAPOUM NOE 12 590 12 061 24 651 104 4 335 5 .7",
+   "status": "warn",
+   "note": {
+    "en": "24651 is nowhere on the 'TIAPOUM NOE' row; that row reads [12.0, 590.0, 12061.0, 24.0, 651.0, 104.0] · parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "24651 is nowhere on the 'TIAPOUM NOE' row; that row reads [12.0, 590.0, 12061.0, 24.0, 651.0, 104.0] · parts sum to 784 894.0 but the document publishes 361 842.0"
+   }
   },
   {
-   "indicator": "evolution_niveau_prix",
-   "area": "uemoa",
-   "period": "12 mois",
-   "value": 0.4,
+   "indicator": "population",
+   "area": "nouamou",
+   "period": "HOMMES",
+   "value": 8663,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "persons",
+    "fr": "persons"
    },
-   "page": 5,
-   "snippet": "UEMOA* 10000 104,4 103,4 103,5 104,0 104,8 0,7 1,3 0,4",
-   "status": "ok",
-   "note": null
+   "page": 6,
+   "snippet": "NOUAMOU 8 663 8 740 17 403 99 2 491 7 .0",
+   "status": "warn",
+   "note": {
+    "en": "parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "parts sum to 407 615.0 but the document publishes 190 381.0"
+   }
+  },
+  {
+   "indicator": "population",
+   "area": "nouamou",
+   "period": "FEMMES",
+   "value": 8740,
+   "unit": {
+    "en": "persons",
+    "fr": "persons"
+   },
+   "page": 6,
+   "snippet": "NOUAMOU 8 663 8 740 17 403 99 2 491 7 .0",
+   "status": "warn",
+   "note": {
+    "en": "parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "parts sum to 377 277.0 but the document publishes 171 461.0"
+   }
+  },
+  {
+   "indicator": "population",
+   "area": "nouamou",
+   "period": "TOTAL",
+   "value": 17403,
+   "unit": {
+    "en": "persons",
+    "fr": "persons"
+   },
+   "page": 6,
+   "snippet": "NOUAMOU 8 663 8 740 17 403 99 2 491 7 .0",
+   "status": "warn",
+   "note": {
+    "en": "parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "parts sum to 784 894.0 but the document publishes 361 842.0"
+   }
+  },
+  {
+   "indicator": "population",
+   "area": "tiapoum",
+   "period": "HOMMES",
+   "value": 13034,
+   "unit": {
+    "en": "persons",
+    "fr": "persons"
+   },
+   "page": 6,
+   "snippet": "TIAPOUM 13 034 12 853 25 887 101 4 799 5 .4",
+   "status": "warn",
+   "note": {
+    "en": "13034 is nowhere on the 'TIAPOUM' row; that row reads [12.0, 590.0, 12061.0, 24.0, 651.0, 104.0] · parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "13034 is nowhere on the 'TIAPOUM' row; that row reads [12.0, 590.0, 12061.0, 24.0, 651.0, 104.0] · parts sum to 407 615.0 but the document publishes 190 381.0"
+   }
+  },
+  {
+   "indicator": "population",
+   "area": "tiapoum",
+   "period": "FEMMES",
+   "value": 12853,
+   "unit": {
+    "en": "persons",
+    "fr": "persons"
+   },
+   "page": 6,
+   "snippet": "TIAPOUM 13 034 12 853 25 887 101 4 799 5 .4",
+   "status": "warn",
+   "note": {
+    "en": "12853 is nowhere on the 'TIAPOUM' row; that row reads [12.0, 590.0, 12061.0, 24.0, 651.0, 104.0] · parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "12853 is nowhere on the 'TIAPOUM' row; that row reads [12.0, 590.0, 12061.0, 24.0, 651.0, 104.0] · parts sum to 377 277.0 but the document publishes 171 461.0"
+   }
+  },
+  {
+   "indicator": "population",
+   "area": "tiapoum",
+   "period": "TOTAL",
+   "value": 25887,
+   "unit": {
+    "en": "persons",
+    "fr": "persons"
+   },
+   "page": 6,
+   "snippet": "TIAPOUM 13 034 12 853 25 887 101 4 799 5 .4",
+   "status": "warn",
+   "note": {
+    "en": "25887 is nowhere on the 'TIAPOUM' row; that row reads [12.0, 590.0, 12061.0, 24.0, 651.0, 104.0] · parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "25887 is nowhere on the 'TIAPOUM' row; that row reads [12.0, 590.0, 12061.0, 24.0, 651.0, 104.0] · parts sum to 784 894.0 but the document publishes 361 842.0"
+   }
+  },
+  {
+   "indicator": "population",
+   "area": "nat",
+   "period": "HOMMES",
+   "value": 34287,
+   "unit": {
+    "en": "persons",
+    "fr": "persons"
+   },
+   "page": 6,
+   "snippet": "Total TIAPOUM 34 287 33 654 67 941 102 11 625 5 .8",
+   "status": "warn",
+   "note": {
+    "en": "34287 is nowhere on the 'Total TIAPOUM' row; that row reads [34.0, 287.0, 33654.0, 67.0, 941.0, 102.0] · parts sum to 407 615.0 but the document publishes 190 381.0",
+    "fr": "34287 is nowhere on the 'Total TIAPOUM' row; that row reads [34.0, 287.0, 33654.0, 67.0, 941.0, 102.0] · parts sum to 407 615.0 but the document publishes 190 381.0"
+   }
+  },
+  {
+   "indicator": "population",
+   "area": "nat",
+   "period": "FEMMES",
+   "value": 33654,
+   "unit": {
+    "en": "persons",
+    "fr": "persons"
+   },
+   "page": 6,
+   "snippet": "Total TIAPOUM 34 287 33 654 67 941 102 11 625 5 .8",
+   "status": "warn",
+   "note": {
+    "en": "parts sum to 377 277.0 but the document publishes 171 461.0",
+    "fr": "parts sum to 377 277.0 but the document publishes 171 461.0"
+   }
+  },
+  {
+   "indicator": "population",
+   "area": "nat",
+   "period": "TOTAL",
+   "value": 67941,
+   "unit": {
+    "en": "persons",
+    "fr": "persons"
+   },
+   "page": 6,
+   "snippet": "Total TIAPOUM 34 287 33 654 67 941 102 11 625 5 .8",
+   "status": "warn",
+   "note": {
+    "en": "67941 is nowhere on the 'Total TIAPOUM' row; that row reads [34.0, 287.0, 33654.0, 67.0, 941.0, 102.0] · parts sum to 784 894.0 but the document publishes 361 842.0",
+    "fr": "67941 is nowhere on the 'Total TIAPOUM' row; that row reads [34.0, 287.0, 33654.0, 67.0, 941.0, 102.0] · parts sum to 784 894.0 but the document publishes 361 842.0"
+   }
   }
  ],
  "indicators": {
-  "evolutions_annuelles": {
-   "fr": "Évolutions annuelles",
-   "en": "Annual changes"
-  },
-  "evolutions_mensuelles": {
-   "fr": "Évolutions mensuelles",
-   "en": "Monthly changes"
-  },
-  "inflation_moyenne_annuelle": {
-   "fr": "Inflation en moyenne annuelle",
-   "en": "Average annual inflation"
-  },
-  "evolution_niveau_prix": {
-   "fr": "Indices pour les mois de Variations (en %) depuis",
-   "en": "Index variation (%) since"
+  "population": {
+   "fr": "POPULATION RECENSÉE AU 14 DECEMBRE 2021",
+   "en": "Population enumerated on 14 December 2021"
   }
  },
  "i18n": {
@@ -1953,12 +1441,12 @@
    "fBuiltBody": "Python, an LLM extraction pipeline, Chart.js. No tracking, no cookies, no server — a single HTML file.",
    "stamp": "Dashboard generated on {date}. Figures are the responsibility of the source institution; the presentation is the responsibility of the team that built this page.",
    "syntheticWarn": "Demonstration data — fictional country, for training purposes only.",
-   "kicker": "ET DU DÉVELOPPEMENT – Union-Discipline-Travail",
-   "title": "Economic Indicators",
+   "kicker": "RGPH 2021",
+   "title": "Population Census Results 2021",
    "subtitle": "",
-   "ovTitle": "Overview",
-   "ovLede": "This page presents the latest annual and monthly evolutions, average annual inflation and price‑level indices for selected sectors and countries.",
-   "limBody": "Values 100.3, 101.2, 101.4, 101.6, 101.9, 102.1, 102.3 and 102.4 are outside the plausible range for the indicator evolution_niveau_prix.",
+   "ovTitle": "Population recensed on 14 December 2021",
+   "ovLede": "The 2021 census records the number of persons by sex and administrative area.",
+   "limBody": "The dataset does not contain the values 100903, 124567, 12590, 12853, 13034, 13102, 137425 and 190381 in the rows indicated; each of those rows shows different figures.",
    "publisher": "National Institute of Statistics",
    "period": ""
   },
@@ -1996,30 +1484,14 @@
    "fBuiltBody": "Python, une chaîne d'extraction par LLM, Chart.js. Aucun traceur, aucun cookie, aucun serveur — un seul fichier HTML.",
    "stamp": "Tableau de bord généré le {date}. Les chiffres relèvent de la responsabilité de l'institution source ; la présentation relève de la responsabilité de l'équipe qui a construit cette page.",
    "syntheticWarn": "Données de démonstration — pays fictif, à usage pédagogique uniquement.",
-   "kicker": "ET DU DÉVELOPPEMENT – Union-Discipline-Travail",
-   "title": "Indicateurs économiques",
+   "kicker": "RGPH 2021",
+   "title": "Résultats du recensement 2021",
    "subtitle": "",
-   "ovTitle": "Vue d’ensemble",
-   "ovLede": "Cette page présente les dernières évolutions annuelles et mensuelles, l’inflation moyenne annuelle et les indices de niveau des prix pour les secteurs et pays sélectionnés.",
-   "limBody": "Les valeurs 100,3 ; 101,2 ; 101,4 ; 101,6 ; 101,9 ; 102,1 ; 102,3 et 102,4 sont hors du domaine plausible pour l’indicateur evolution_niveau_prix.",
+   "ovTitle": "Population recensée au 14 décembre 2021",
+   "ovLede": "Le recensement de 2021 indique le nombre de personnes par sexe et zone administrative.",
+   "limBody": "Le jeu de données ne comporte pas les valeurs 100903, 124567, 12590, 12853, 13034, 13102, 137425 et 190381 dans les lignes indiquées ; chaque ligne présente des chiffres différents.",
    "publisher": "Institut National de la Statistique",
    "period": ""
-  }
- },
- "overviewScatter": {
-  "x": "evolutions_annuelles",
-  "y": "evolutions_mensuelles",
-  "title": {
-   "en": "Monthly changes against Annual changes",
-   "fr": "Évolutions mensuelles et Évolutions annuelles"
-  },
-  "sub": {
-   "en": "One point per area — an association, not a causal claim",
-   "fr": "Un point par zone — une association, pas une relation causale"
-  },
-  "src": {
-   "en": "No significance test performed.",
-   "fr": "Aucun test de significativité réalisé."
   }
  }
 }

@@ -1,3 +1,9 @@
+**Live dashboard: <https://kingkin7.github.io/stg17-dashboard/>**
+
+Rebuilt by running the notebook in this repository against the source publication. Last published 2026-09-29.
+
+---
+
 # Economic Indicators
 
 Bilingual (EN/FR) dashboard built from **ET DU DÉVELOPPEMENT Union-Discipline-Travail**, pages 4, 5, 6.

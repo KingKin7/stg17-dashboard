@@ -1,0 +1,2025 @@
+{
+ "meta": {
+  "publisher": {
+   "en": "National Institute of Statistics",
+   "fr": "Institut National de la Statistique"
+  },
+  "country": {
+   "en": "",
+   "fr": ""
+  },
+  "docTitle": {
+   "en": "ET DU DÉVELOPPEMENT Union-Discipline-Travail",
+   "fr": "ET DU DÉVELOPPEMENT Union-Discipline-Travail"
+  },
+  "period": {
+   "en": "",
+   "fr": ""
+  },
+  "sourceUrl": "#",
+  "licence": {
+   "en": "Source data: as published by the institute. Dashboard code: MIT.",
+   "fr": "Données source : telles que publiées par l'institut. Code : MIT."
+  },
+  "contact": {
+   "en": "Built at the STG17 technical workshop, lab 02.",
+   "fr": "Réalisé lors de l'atelier technique STG17, labo 02."
+  },
+  "defaultLang": "fr",
+  "synthetic": false,
+  "generated": "2026-09-29"
+ },
+ "areas": [
+  {
+   "id": "burkina-faso",
+   "fr": "Burkina-Faso",
+   "en": "Burkina Faso"
+  },
+  {
+   "id": "benin",
+   "fr": "Bénin",
+   "en": "Benin"
+  },
+  {
+   "id": "cote-d-ivoire",
+   "fr": "Côte d'Ivoire",
+   "en": "Côte d'Ivoire"
+  },
+  {
+   "id": "guinee-bissau",
+   "fr": "Guinée-Bissau",
+   "en": "Guinea-Bissau"
+  },
+  {
+   "id": "ihpc",
+   "fr": "IHPC",
+   "en": "HICP"
+  },
+  {
+   "id": "inflation-moyenne-annuelle",
+   "fr": "Inflation moyenne annuelle",
+   "en": "Annual average inflation"
+  },
+  {
+   "id": "informationetcommunication",
+   "fr": "InformationetCommunication",
+   "en": "Information and Communication"
+  },
+  {
+   "id": "mali",
+   "fr": "Mali",
+   "en": "Mali"
+  },
+  {
+   "id": "niger",
+   "fr": "Niger",
+   "en": "Niger"
+  },
+  {
+   "id": "produitsalimentairesetboissonsnonalcoolisees",
+   "fr": "Produitsalimentairesetboissonsnonalcoolisées",
+   "en": "Food and non‑alcoholic beverages"
+  },
+  {
+   "id": "sante",
+   "fr": "Santé",
+   "en": "Health"
+  },
+  {
+   "id": "senegal",
+   "fr": "Sénégal",
+   "en": "Senegal"
+  },
+  {
+   "id": "togo",
+   "fr": "Togo",
+   "en": "Togo"
+  },
+  {
+   "id": "transports",
+   "fr": "Transports",
+   "en": "Transport"
+  },
+  {
+   "id": "uemoa",
+   "fr": "UEMOA*",
+   "en": "UEMOA*"
+  },
+  {
+   "id": "lesprixdesproduitsenergetiques",
+   "fr": "lesprixdesproduitsénergétiques",
+   "en": "Energy product prices"
+  },
+  {
+   "id": "produitsfrais",
+   "fr": "produitsfrais",
+   "en": "Fresh produce"
+  }
+ ],
+ "kpis": [
+  {
+   "labels": {
+    "en": "Annual evolution – Information & Communication – July 2026",
+    "fr": "Évolution annuelle – Information et Communication – juillet 2026"
+   },
+   "value": -1.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": false
+  },
+  {
+   "labels": {
+    "en": "Monthly evolution – IHPC – July 2026",
+    "fr": "Évolution mensuelle – IHPC – juillet 2026"
+   },
+   "value": 0.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": false
+  },
+  {
+   "labels": {
+    "en": "Average annual inflation – July 2026",
+    "fr": "Inflation moyenne annuelle – juillet 2026"
+   },
+   "value": 0.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": false
+  },
+  {
+   "labels": {
+    "en": "Price‑level index – UEMOA* – avr‑26",
+    "fr": "Indice de niveau des prix – UEMOA* – avr‑26"
+   },
+   "value": 103.5,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": false
+  }
+ ],
+ "series": {
+  "evolutions_annuelles": {
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "periods": [
+    "Juillet 2026"
+   ],
+   "values": {
+    "informationetcommunication": [
+     -1.3
+    ]
+   }
+  },
+  "evolutions_mensuelles": {
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "periods": [
+    "Juillet 2026"
+   ],
+   "values": {
+    "ihpc": [
+     0.1
+    ],
+    "informationetcommunication": [
+     -0.7
+    ],
+    "produitsalimentairesetboissonsnonalcoolisees": [
+     0.8
+    ],
+    "sante": [
+     -0.4
+    ],
+    "transports": [
+     0.4
+    ],
+    "lesprixdesproduitsenergetiques": [
+     -1.2
+    ],
+    "produitsfrais": [
+     0.9
+    ]
+   }
+  },
+  "inflation_moyenne_annuelle": {
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "periods": [
+    "Juillet 2026"
+   ],
+   "values": {
+    "inflation-moyenne-annuelle": [
+     0.9
+    ]
+   }
+  },
+  "evolution_niveau_prix": {
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "periods": [
+    "1 mois",
+    "12 mois",
+    "3 mois",
+    "Pondération",
+    "avr-26",
+    "juin-25",
+    "juin-26",
+    "mai-26",
+    "mars-26"
+   ],
+   "values": {
+    "burkina-faso": [
+     1.9,
+     1.9,
+     3.4,
+     1046,
+     103.6,
+     105.0,
+     107.0,
+     105.0,
+     103.5
+    ],
+    "benin": [
+     0.1,
+     -0.4,
+     0.4,
+     959,
+     102.4,
+     103.2,
+     102.7,
+     102.6,
+     102.3
+    ],
+    "cote-d-ivoire": [
+     0.5,
+     1.8,
+     0.8,
+     3373,
+     105.0,
+     104.0,
+     105.8,
+     105.3,
+     105.0
+    ],
+    "guinee-bissau": [
+     0.1,
+     -0.6,
+     -0.5,
+     97,
+     103.7,
+     103.8,
+     103.2,
+     103.0,
+     103.7
+    ],
+    "mali": [
+     1.0,
+     -1.4,
+     2.2,
+     1148,
+     106.2,
+     109.6,
+     108.0,
+     107.0,
+     105.7
+    ],
+    "niger": [
+     1.8,
+     -2.9,
+     4.0,
+     943,
+     98.8,
+     105.2,
+     102.1,
+     100.3,
+     98.1
+    ],
+    "senegal": [
+     0.0,
+     0.4,
+     -0.3,
+     1827,
+     101.4,
+     101.2,
+     101.6,
+     101.6,
+     101.9
+    ],
+    "togo": [
+     1.2,
+     0.1,
+     1.7,
+     607,
+     104.6,
+     106.1,
+     106.2,
+     105.0,
+     104.5
+    ],
+    "uemoa": [
+     0.7,
+     0.4,
+     1.3,
+     10000,
+     103.5,
+     104.4,
+     104.8,
+     104.0,
+     103.4
+    ]
+   }
+  }
+ },
+ "views": [
+  {
+   "id": "evolutions_annuelles",
+   "chart": "bar",
+   "tab": {
+    "en": "Annual evolutions",
+    "fr": "Évolutions annuelles"
+   },
+   "title": {
+    "en": "Annual evolution – Information & Communication",
+    "fr": "Évolution annuelle – Information et Communication"
+   },
+   "sub": {
+    "en": "Variation in % for July 2026",
+    "fr": "Variation en % pour juillet 2026"
+   },
+   "lede": {
+    "en": "The annual evolution for the Information & Communication sector in July 2026 is shown.",
+    "fr": "L’évolution annuelle du secteur Information et Communication en juillet 2026 est présentée."
+   },
+   "src": {
+    "en": "",
+    "fr": ""
+   }
+  },
+  {
+   "id": "evolutions_mensuelles",
+   "chart": "grouped",
+   "tab": {
+    "en": "Monthly evolutions",
+    "fr": "Évolutions mensuelles"
+   },
+   "title": {
+    "en": "Monthly evolutions by sector – July 2026",
+    "fr": "Évolutions mensuelles par secteur – juillet 2026"
+   },
+   "sub": {
+    "en": "Monthly change in % for each sector",
+    "fr": "Variation mensuelle en % pour chaque secteur"
+   },
+   "lede": {
+    "en": "Monthly evolution for each sector in July 2026 is displayed.",
+    "fr": "L’évolution mensuelle de chaque secteur en juillet 2026 est affichée."
+   },
+   "src": {
+    "en": "",
+    "fr": ""
+   }
+  },
+  {
+   "id": "inflation_moyenne_annuelle",
+   "chart": "bar",
+   "tab": {
+    "en": "Average annual inflation",
+    "fr": "Inflation moyenne annuelle"
+   },
+   "title": {
+    "en": "Average annual inflation – July 2026",
+    "fr": "Inflation moyenne annuelle – juillet 2026"
+   },
+   "sub": {
+    "en": "Overall inflation rate in % for July 2026",
+    "fr": "Taux d’inflation global en % pour juillet 2026"
+   },
+   "lede": {
+    "en": "The average annual inflation rate for July 2026 is shown.",
+    "fr": "Le taux d’inflation moyenne annuelle pour juillet 2026 est présenté."
+   },
+   "src": {
+    "en": "",
+    "fr": ""
+   }
+  },
+  {
+   "id": "evolution_niveau_prix",
+   "chart": "bar",
+   "tab": {
+    "en": "Price‑level indices",
+    "fr": "Indices de prix"
+   },
+   "title": {
+    "en": "Price‑level indices by country and period",
+    "fr": "Indices de niveau des prix par pays et période"
+   },
+   "sub": {
+    "en": "Indices expressed in % for selected periods",
+    "fr": "Indices exprimés en % pour les périodes sélectionnées"
+   },
+   "lede": {
+    "en": "Price‑level indices for each country across the listed periods are presented.",
+    "fr": "Les indices de niveau des prix pour chaque pays selon les périodes listées sont présentés."
+   },
+   "src": {
+    "en": "",
+    "fr": ""
+   }
+  }
+ ],
+ "facts": [
+  {
+   "indicator": "evolutions_annuelles",
+   "area": "informationetcommunication",
+   "period": "Juillet 2026",
+   "value": -1.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 4,
+   "snippet": "InformationetCommunication(-1,3%).",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolutions_mensuelles",
+   "area": "ihpc",
+   "period": "Juillet 2026",
+   "value": 0.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 4,
+   "snippet": "Relativementaumoisdejuin2026,l'IHPCdumoisdejuillet2026estenhaussede0,1%.Cettehausseestportéeparticulièrementparlesdivisions",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolutions_mensuelles",
+   "area": "produitsalimentairesetboissonsnonalcoolisees",
+   "period": "Juillet 2026",
+   "value": 0.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 4,
+   "snippet": "Produitsalimentairesetboissonsnonalcoolisées(+0,8%),Transports(+0,4%)etc.Toutefois,elleestattenuéeparlabaisseobservéeauniveaudes",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolutions_mensuelles",
+   "area": "transports",
+   "period": "Juillet 2026",
+   "value": 0.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 4,
+   "snippet": "Produitsalimentairesetboissonsnonalcoolisées(+0,8%),Transports(+0,4%)etc.Toutefois,elleestattenuéeparlabaisseobservéeauniveaudes",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolutions_mensuelles",
+   "area": "informationetcommunication",
+   "period": "Juillet 2026",
+   "value": -0.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 4,
+   "snippet": "divisionsInformationetCommunication(-0,7%)etSanté(-0,4%)etc.",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolutions_mensuelles",
+   "area": "sante",
+   "period": "Juillet 2026",
+   "value": -0.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 4,
+   "snippet": "divisionsInformationetCommunication(-0,7%)etSanté(-0,4%)etc.",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolutions_mensuelles",
+   "area": "lesprixdesproduitsenergetiques",
+   "period": "Juillet 2026",
+   "value": -1.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 4,
+   "snippet": "Enoutre,lesprixdesproduitsénergétiquesenregistrentunebaissede1,2%,contrairementauxproduitsfraisquirencherissementdesprixde0,9%.",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolutions_mensuelles",
+   "area": "produitsfrais",
+   "period": "Juillet 2026",
+   "value": 0.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 4,
+   "snippet": "Enoutre,lesprixdesproduitsénergétiquesenregistrentunebaissede1,2%,contrairementauxproduitsfraisquirencherissementdesprixde0,9%.",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_moyenne_annuelle",
+   "area": "inflation-moyenne-annuelle",
+   "period": "Juillet 2026",
+   "value": 0.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 4,
+   "snippet": "L'inflationenmoyenneannuellesesitueà(+0,9%)encemoisdejuillet2026,elleenregistreunelégèrehaussede0,2pointdepourcentagepar",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_moyenne_annuelle",
+   "area": "inflation-moyenne-annuelle",
+   "period": "Juillet 2026",
+   "value": 0.2,
+   "unit": {
+    "en": "point",
+    "fr": "point"
+   },
+   "page": 4,
+   "snippet": "L'inflationenmoyenneannuellesesitueà(+0,9%)encemoisdejuillet2026,elleenregistreunelégèrehaussede0,2pointdepourcentagepar",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "benin",
+   "period": "Pondération",
+   "value": 959,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 5,
+   "snippet": "Bénin 959 103,2 102,3 102,4 102,6 102,7 0,1 0,4 -0,4",
+   "status": "warn",
+   "note": {
+    "en": "unit 'None' not allowed for evolution_niveau_prix; 959 is outside the plausible range for evolution_niveau_prix",
+    "fr": "unit 'None' not allowed for evolution_niveau_prix; 959 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "benin",
+   "period": "juin-25",
+   "value": 103.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Bénin 959 103,2 102,3 102,4 102,6 102,7 0,1 0,4 -0,4",
+   "status": "warn",
+   "note": {
+    "en": "103.2 is outside the plausible range for evolution_niveau_prix",
+    "fr": "103.2 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "benin",
+   "period": "mars-26",
+   "value": 102.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Bénin 959 103,2 102,3 102,4 102,6 102,7 0,1 0,4 -0,4",
+   "status": "warn",
+   "note": {
+    "en": "102.3 is outside the plausible range for evolution_niveau_prix",
+    "fr": "102.3 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "benin",
+   "period": "avr-26",
+   "value": 102.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Bénin 959 103,2 102,3 102,4 102,6 102,7 0,1 0,4 -0,4",
+   "status": "warn",
+   "note": {
+    "en": "102.4 is outside the plausible range for evolution_niveau_prix",
+    "fr": "102.4 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "benin",
+   "period": "mai-26",
+   "value": 102.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Bénin 959 103,2 102,3 102,4 102,6 102,7 0,1 0,4 -0,4",
+   "status": "warn",
+   "note": {
+    "en": "102.6 is outside the plausible range for evolution_niveau_prix",
+    "fr": "102.6 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "benin",
+   "period": "juin-26",
+   "value": 102.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Bénin 959 103,2 102,3 102,4 102,6 102,7 0,1 0,4 -0,4",
+   "status": "warn",
+   "note": {
+    "en": "102.7 is outside the plausible range for evolution_niveau_prix",
+    "fr": "102.7 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "benin",
+   "period": "1 mois",
+   "value": 0.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Bénin 959 103,2 102,3 102,4 102,6 102,7 0,1 0,4 -0,4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "benin",
+   "period": "3 mois",
+   "value": 0.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Bénin 959 103,2 102,3 102,4 102,6 102,7 0,1 0,4 -0,4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "benin",
+   "period": "12 mois",
+   "value": -0.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Bénin 959 103,2 102,3 102,4 102,6 102,7 0,1 0,4 -0,4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "burkina-faso",
+   "period": "Pondération",
+   "value": 1046,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 5,
+   "snippet": "Burkina-Faso 1046 105,0 103,5 103,6 105,0 107,0 1,9 3,4 1,9",
+   "status": "warn",
+   "note": {
+    "en": "unit 'None' not allowed for evolution_niveau_prix; 1046 is outside the plausible range for evolution_niveau_prix",
+    "fr": "unit 'None' not allowed for evolution_niveau_prix; 1046 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "burkina-faso",
+   "period": "juin-25",
+   "value": 105.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Burkina-Faso 1046 105,0 103,5 103,6 105,0 107,0 1,9 3,4 1,9",
+   "status": "warn",
+   "note": {
+    "en": "105.0 is outside the plausible range for evolution_niveau_prix",
+    "fr": "105.0 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "burkina-faso",
+   "period": "mars-26",
+   "value": 103.5,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Burkina-Faso 1046 105,0 103,5 103,6 105,0 107,0 1,9 3,4 1,9",
+   "status": "warn",
+   "note": {
+    "en": "103.5 is outside the plausible range for evolution_niveau_prix",
+    "fr": "103.5 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "burkina-faso",
+   "period": "avr-26",
+   "value": 103.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Burkina-Faso 1046 105,0 103,5 103,6 105,0 107,0 1,9 3,4 1,9",
+   "status": "warn",
+   "note": {
+    "en": "103.6 is outside the plausible range for evolution_niveau_prix",
+    "fr": "103.6 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "burkina-faso",
+   "period": "mai-26",
+   "value": 105.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Burkina-Faso 1046 105,0 103,5 103,6 105,0 107,0 1,9 3,4 1,9",
+   "status": "warn",
+   "note": {
+    "en": "105.0 is outside the plausible range for evolution_niveau_prix",
+    "fr": "105.0 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "burkina-faso",
+   "period": "juin-26",
+   "value": 107.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Burkina-Faso 1046 105,0 103,5 103,6 105,0 107,0 1,9 3,4 1,9",
+   "status": "warn",
+   "note": {
+    "en": "107.0 is outside the plausible range for evolution_niveau_prix",
+    "fr": "107.0 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "burkina-faso",
+   "period": "1 mois",
+   "value": 1.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Burkina-Faso 1046 105,0 103,5 103,6 105,0 107,0 1,9 3,4 1,9",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "burkina-faso",
+   "period": "3 mois",
+   "value": 3.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Burkina-Faso 1046 105,0 103,5 103,6 105,0 107,0 1,9 3,4 1,9",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "burkina-faso",
+   "period": "12 mois",
+   "value": 1.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Burkina-Faso 1046 105,0 103,5 103,6 105,0 107,0 1,9 3,4 1,9",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "cote-d-ivoire",
+   "period": "Pondération",
+   "value": 3373,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 5,
+   "snippet": "Côte d'Ivoire 3373 104,0 105,0 105,0 105,3 105,8 0,5 0,8 1,8",
+   "status": "warn",
+   "note": {
+    "en": "unit 'None' not allowed for evolution_niveau_prix; 3373 is outside the plausible range for evolution_niveau_prix",
+    "fr": "unit 'None' not allowed for evolution_niveau_prix; 3373 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "cote-d-ivoire",
+   "period": "juin-25",
+   "value": 104.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Côte d'Ivoire 3373 104,0 105,0 105,0 105,3 105,8 0,5 0,8 1,8",
+   "status": "warn",
+   "note": {
+    "en": "104.0 is outside the plausible range for evolution_niveau_prix",
+    "fr": "104.0 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "cote-d-ivoire",
+   "period": "mars-26",
+   "value": 105.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Côte d'Ivoire 3373 104,0 105,0 105,0 105,3 105,8 0,5 0,8 1,8",
+   "status": "warn",
+   "note": {
+    "en": "105.0 is outside the plausible range for evolution_niveau_prix",
+    "fr": "105.0 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "cote-d-ivoire",
+   "period": "avr-26",
+   "value": 105.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Côte d'Ivoire 3373 104,0 105,0 105,0 105,3 105,8 0,5 0,8 1,8",
+   "status": "warn",
+   "note": {
+    "en": "105.0 is outside the plausible range for evolution_niveau_prix",
+    "fr": "105.0 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "cote-d-ivoire",
+   "period": "mai-26",
+   "value": 105.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Côte d'Ivoire 3373 104,0 105,0 105,0 105,3 105,8 0,5 0,8 1,8",
+   "status": "warn",
+   "note": {
+    "en": "105.3 is outside the plausible range for evolution_niveau_prix",
+    "fr": "105.3 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "cote-d-ivoire",
+   "period": "juin-26",
+   "value": 105.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Côte d'Ivoire 3373 104,0 105,0 105,0 105,3 105,8 0,5 0,8 1,8",
+   "status": "warn",
+   "note": {
+    "en": "105.8 is outside the plausible range for evolution_niveau_prix",
+    "fr": "105.8 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "cote-d-ivoire",
+   "period": "1 mois",
+   "value": 0.5,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Côte d'Ivoire 3373 104,0 105,0 105,0 105,3 105,8 0,5 0,8 1,8",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "cote-d-ivoire",
+   "period": "3 mois",
+   "value": 0.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Côte d'Ivoire 3373 104,0 105,0 105,0 105,3 105,8 0,5 0,8 1,8",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "cote-d-ivoire",
+   "period": "12 mois",
+   "value": 1.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Côte d'Ivoire 3373 104,0 105,0 105,0 105,3 105,8 0,5 0,8 1,8",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "guinee-bissau",
+   "period": "Pondération",
+   "value": 97,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 5,
+   "snippet": "Guinée-Bissau 97 103,8 103,7 103,7 103,0 103,2 0,1 -0,5 -0,6",
+   "status": "warn",
+   "note": {
+    "en": "unit 'None' not allowed for evolution_niveau_prix",
+    "fr": "unit 'None' not allowed for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "guinee-bissau",
+   "period": "juin-25",
+   "value": 103.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Guinée-Bissau 97 103,8 103,7 103,7 103,0 103,2 0,1 -0,5 -0,6",
+   "status": "warn",
+   "note": {
+    "en": "103.8 is outside the plausible range for evolution_niveau_prix",
+    "fr": "103.8 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "guinee-bissau",
+   "period": "mars-26",
+   "value": 103.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Guinée-Bissau 97 103,8 103,7 103,7 103,0 103,2 0,1 -0,5 -0,6",
+   "status": "warn",
+   "note": {
+    "en": "103.7 is outside the plausible range for evolution_niveau_prix",
+    "fr": "103.7 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "guinee-bissau",
+   "period": "avr-26",
+   "value": 103.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Guinée-Bissau 97 103,8 103,7 103,7 103,0 103,2 0,1 -0,5 -0,6",
+   "status": "warn",
+   "note": {
+    "en": "103.7 is outside the plausible range for evolution_niveau_prix",
+    "fr": "103.7 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "guinee-bissau",
+   "period": "mai-26",
+   "value": 103.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Guinée-Bissau 97 103,8 103,7 103,7 103,0 103,2 0,1 -0,5 -0,6",
+   "status": "warn",
+   "note": {
+    "en": "103.0 is outside the plausible range for evolution_niveau_prix",
+    "fr": "103.0 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "guinee-bissau",
+   "period": "juin-26",
+   "value": 103.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Guinée-Bissau 97 103,8 103,7 103,7 103,0 103,2 0,1 -0,5 -0,6",
+   "status": "warn",
+   "note": {
+    "en": "103.2 is outside the plausible range for evolution_niveau_prix",
+    "fr": "103.2 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "guinee-bissau",
+   "period": "1 mois",
+   "value": 0.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Guinée-Bissau 97 103,8 103,7 103,7 103,0 103,2 0,1 -0,5 -0,6",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "guinee-bissau",
+   "period": "3 mois",
+   "value": -0.5,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Guinée-Bissau 97 103,8 103,7 103,7 103,0 103,2 0,1 -0,5 -0,6",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "guinee-bissau",
+   "period": "12 mois",
+   "value": -0.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Guinée-Bissau 97 103,8 103,7 103,7 103,0 103,2 0,1 -0,5 -0,6",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "mali",
+   "period": "Pondération",
+   "value": 1148,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 5,
+   "snippet": "Mali 1148 109,6 105,7 106,2 107,0 108,0 1,0 2,2 -1,4",
+   "status": "warn",
+   "note": {
+    "en": "unit 'None' not allowed for evolution_niveau_prix; 1148 is outside the plausible range for evolution_niveau_prix",
+    "fr": "unit 'None' not allowed for evolution_niveau_prix; 1148 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "mali",
+   "period": "juin-25",
+   "value": 109.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Mali 1148 109,6 105,7 106,2 107,0 108,0 1,0 2,2 -1,4",
+   "status": "warn",
+   "note": {
+    "en": "109.6 is outside the plausible range for evolution_niveau_prix",
+    "fr": "109.6 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "mali",
+   "period": "mars-26",
+   "value": 105.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Mali 1148 109,6 105,7 106,2 107,0 108,0 1,0 2,2 -1,4",
+   "status": "warn",
+   "note": {
+    "en": "105.7 is outside the plausible range for evolution_niveau_prix",
+    "fr": "105.7 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "mali",
+   "period": "avr-26",
+   "value": 106.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Mali 1148 109,6 105,7 106,2 107,0 108,0 1,0 2,2 -1,4",
+   "status": "warn",
+   "note": {
+    "en": "106.2 is outside the plausible range for evolution_niveau_prix",
+    "fr": "106.2 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "mali",
+   "period": "mai-26",
+   "value": 107.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Mali 1148 109,6 105,7 106,2 107,0 108,0 1,0 2,2 -1,4",
+   "status": "warn",
+   "note": {
+    "en": "107.0 is outside the plausible range for evolution_niveau_prix",
+    "fr": "107.0 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "mali",
+   "period": "juin-26",
+   "value": 108.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Mali 1148 109,6 105,7 106,2 107,0 108,0 1,0 2,2 -1,4",
+   "status": "warn",
+   "note": {
+    "en": "108.0 is outside the plausible range for evolution_niveau_prix",
+    "fr": "108.0 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "mali",
+   "period": "1 mois",
+   "value": 1.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Mali 1148 109,6 105,7 106,2 107,0 108,0 1,0 2,2 -1,4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "mali",
+   "period": "3 mois",
+   "value": 2.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Mali 1148 109,6 105,7 106,2 107,0 108,0 1,0 2,2 -1,4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "mali",
+   "period": "12 mois",
+   "value": -1.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Mali 1148 109,6 105,7 106,2 107,0 108,0 1,0 2,2 -1,4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "niger",
+   "period": "Pondération",
+   "value": 943,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 5,
+   "snippet": "Niger 943 105,2 98,1 98,8 100,3 102,1 1,8 4,0 -2,9",
+   "status": "warn",
+   "note": {
+    "en": "unit 'None' not allowed for evolution_niveau_prix; 943 is outside the plausible range for evolution_niveau_prix",
+    "fr": "unit 'None' not allowed for evolution_niveau_prix; 943 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "niger",
+   "period": "juin-25",
+   "value": 105.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Niger 943 105,2 98,1 98,8 100,3 102,1 1,8 4,0 -2,9",
+   "status": "warn",
+   "note": {
+    "en": "105.2 is outside the plausible range for evolution_niveau_prix",
+    "fr": "105.2 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "niger",
+   "period": "mars-26",
+   "value": 98.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Niger 943 105,2 98,1 98,8 100,3 102,1 1,8 4,0 -2,9",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "niger",
+   "period": "avr-26",
+   "value": 98.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Niger 943 105,2 98,1 98,8 100,3 102,1 1,8 4,0 -2,9",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "niger",
+   "period": "mai-26",
+   "value": 100.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Niger 943 105,2 98,1 98,8 100,3 102,1 1,8 4,0 -2,9",
+   "status": "warn",
+   "note": {
+    "en": "100.3 is outside the plausible range for evolution_niveau_prix",
+    "fr": "100.3 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "niger",
+   "period": "juin-26",
+   "value": 102.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Niger 943 105,2 98,1 98,8 100,3 102,1 1,8 4,0 -2,9",
+   "status": "warn",
+   "note": {
+    "en": "102.1 is outside the plausible range for evolution_niveau_prix",
+    "fr": "102.1 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "niger",
+   "period": "1 mois",
+   "value": 1.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Niger 943 105,2 98,1 98,8 100,3 102,1 1,8 4,0 -2,9",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "niger",
+   "period": "3 mois",
+   "value": 4.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Niger 943 105,2 98,1 98,8 100,3 102,1 1,8 4,0 -2,9",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "niger",
+   "period": "12 mois",
+   "value": -2.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Niger 943 105,2 98,1 98,8 100,3 102,1 1,8 4,0 -2,9",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "senegal",
+   "period": "Pondération",
+   "value": 1827,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 5,
+   "snippet": "Sénégal 1827 101,2 101,9 101,4 101,6 101,6 0,0 -0,3 0,4",
+   "status": "warn",
+   "note": {
+    "en": "unit 'None' not allowed for evolution_niveau_prix; 1827 is outside the plausible range for evolution_niveau_prix",
+    "fr": "unit 'None' not allowed for evolution_niveau_prix; 1827 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "senegal",
+   "period": "juin-25",
+   "value": 101.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Sénégal 1827 101,2 101,9 101,4 101,6 101,6 0,0 -0,3 0,4",
+   "status": "warn",
+   "note": {
+    "en": "101.2 is outside the plausible range for evolution_niveau_prix",
+    "fr": "101.2 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "senegal",
+   "period": "mars-26",
+   "value": 101.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Sénégal 1827 101,2 101,9 101,4 101,6 101,6 0,0 -0,3 0,4",
+   "status": "warn",
+   "note": {
+    "en": "101.9 is outside the plausible range for evolution_niveau_prix",
+    "fr": "101.9 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "senegal",
+   "period": "avr-26",
+   "value": 101.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Sénégal 1827 101,2 101,9 101,4 101,6 101,6 0,0 -0,3 0,4",
+   "status": "warn",
+   "note": {
+    "en": "101.4 is outside the plausible range for evolution_niveau_prix",
+    "fr": "101.4 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "senegal",
+   "period": "mai-26",
+   "value": 101.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Sénégal 1827 101,2 101,9 101,4 101,6 101,6 0,0 -0,3 0,4",
+   "status": "warn",
+   "note": {
+    "en": "101.6 is outside the plausible range for evolution_niveau_prix",
+    "fr": "101.6 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "senegal",
+   "period": "juin-26",
+   "value": 101.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Sénégal 1827 101,2 101,9 101,4 101,6 101,6 0,0 -0,3 0,4",
+   "status": "warn",
+   "note": {
+    "en": "101.6 is outside the plausible range for evolution_niveau_prix",
+    "fr": "101.6 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "senegal",
+   "period": "1 mois",
+   "value": 0.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Sénégal 1827 101,2 101,9 101,4 101,6 101,6 0,0 -0,3 0,4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "senegal",
+   "period": "3 mois",
+   "value": -0.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Sénégal 1827 101,2 101,9 101,4 101,6 101,6 0,0 -0,3 0,4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "senegal",
+   "period": "12 mois",
+   "value": 0.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Sénégal 1827 101,2 101,9 101,4 101,6 101,6 0,0 -0,3 0,4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "togo",
+   "period": "Pondération",
+   "value": 607,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 5,
+   "snippet": "Togo 607 106,1 104,5 104,6 105,0 106,2 1,2 1,7 0,1",
+   "status": "warn",
+   "note": {
+    "en": "unit 'None' not allowed for evolution_niveau_prix; 607 is outside the plausible range for evolution_niveau_prix",
+    "fr": "unit 'None' not allowed for evolution_niveau_prix; 607 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "togo",
+   "period": "juin-25",
+   "value": 106.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Togo 607 106,1 104,5 104,6 105,0 106,2 1,2 1,7 0,1",
+   "status": "warn",
+   "note": {
+    "en": "106.1 is outside the plausible range for evolution_niveau_prix",
+    "fr": "106.1 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "togo",
+   "period": "mars-26",
+   "value": 104.5,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Togo 607 106,1 104,5 104,6 105,0 106,2 1,2 1,7 0,1",
+   "status": "warn",
+   "note": {
+    "en": "104.5 is outside the plausible range for evolution_niveau_prix",
+    "fr": "104.5 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "togo",
+   "period": "avr-26",
+   "value": 104.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Togo 607 106,1 104,5 104,6 105,0 106,2 1,2 1,7 0,1",
+   "status": "warn",
+   "note": {
+    "en": "104.6 is outside the plausible range for evolution_niveau_prix",
+    "fr": "104.6 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "togo",
+   "period": "mai-26",
+   "value": 105.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Togo 607 106,1 104,5 104,6 105,0 106,2 1,2 1,7 0,1",
+   "status": "warn",
+   "note": {
+    "en": "105.0 is outside the plausible range for evolution_niveau_prix",
+    "fr": "105.0 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "togo",
+   "period": "juin-26",
+   "value": 106.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Togo 607 106,1 104,5 104,6 105,0 106,2 1,2 1,7 0,1",
+   "status": "warn",
+   "note": {
+    "en": "106.2 is outside the plausible range for evolution_niveau_prix",
+    "fr": "106.2 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "togo",
+   "period": "1 mois",
+   "value": 1.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Togo 607 106,1 104,5 104,6 105,0 106,2 1,2 1,7 0,1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "togo",
+   "period": "3 mois",
+   "value": 1.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Togo 607 106,1 104,5 104,6 105,0 106,2 1,2 1,7 0,1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "togo",
+   "period": "12 mois",
+   "value": 0.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "Togo 607 106,1 104,5 104,6 105,0 106,2 1,2 1,7 0,1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "uemoa",
+   "period": "Pondération",
+   "value": 10000,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 5,
+   "snippet": "UEMOA* 10000 104,4 103,4 103,5 104,0 104,8 0,7 1,3 0,4",
+   "status": "warn",
+   "note": {
+    "en": "unit 'None' not allowed for evolution_niveau_prix; 10000 is outside the plausible range for evolution_niveau_prix",
+    "fr": "unit 'None' not allowed for evolution_niveau_prix; 10000 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "uemoa",
+   "period": "juin-25",
+   "value": 104.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "UEMOA* 10000 104,4 103,4 103,5 104,0 104,8 0,7 1,3 0,4",
+   "status": "warn",
+   "note": {
+    "en": "104.4 is outside the plausible range for evolution_niveau_prix",
+    "fr": "104.4 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "uemoa",
+   "period": "mars-26",
+   "value": 103.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "UEMOA* 10000 104,4 103,4 103,5 104,0 104,8 0,7 1,3 0,4",
+   "status": "warn",
+   "note": {
+    "en": "103.4 is outside the plausible range for evolution_niveau_prix",
+    "fr": "103.4 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "uemoa",
+   "period": "avr-26",
+   "value": 103.5,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "UEMOA* 10000 104,4 103,4 103,5 104,0 104,8 0,7 1,3 0,4",
+   "status": "warn",
+   "note": {
+    "en": "103.5 is outside the plausible range for evolution_niveau_prix",
+    "fr": "103.5 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "uemoa",
+   "period": "mai-26",
+   "value": 104.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "UEMOA* 10000 104,4 103,4 103,5 104,0 104,8 0,7 1,3 0,4",
+   "status": "warn",
+   "note": {
+    "en": "104.0 is outside the plausible range for evolution_niveau_prix",
+    "fr": "104.0 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "uemoa",
+   "period": "juin-26",
+   "value": 104.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "UEMOA* 10000 104,4 103,4 103,5 104,0 104,8 0,7 1,3 0,4",
+   "status": "warn",
+   "note": {
+    "en": "104.8 is outside the plausible range for evolution_niveau_prix",
+    "fr": "104.8 is outside the plausible range for evolution_niveau_prix"
+   }
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "uemoa",
+   "period": "1 mois",
+   "value": 0.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "UEMOA* 10000 104,4 103,4 103,5 104,0 104,8 0,7 1,3 0,4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "uemoa",
+   "period": "3 mois",
+   "value": 1.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "UEMOA* 10000 104,4 103,4 103,5 104,0 104,8 0,7 1,3 0,4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_niveau_prix",
+   "area": "uemoa",
+   "period": "12 mois",
+   "value": 0.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 5,
+   "snippet": "UEMOA* 10000 104,4 103,4 103,5 104,0 104,8 0,7 1,3 0,4",
+   "status": "ok",
+   "note": null
+  }
+ ],
+ "indicators": {
+  "evolutions_annuelles": {
+   "fr": "Évolutions annuelles",
+   "en": "Annual changes"
+  },
+  "evolutions_mensuelles": {
+   "fr": "Évolutions mensuelles",
+   "en": "Monthly changes"
+  },
+  "inflation_moyenne_annuelle": {
+   "fr": "Inflation en moyenne annuelle",
+   "en": "Average annual inflation"
+  },
+  "evolution_niveau_prix": {
+   "fr": "Indices pour les mois de Variations (en %) depuis",
+   "en": "Index variation (%) since"
+  }
+ },
+ "i18n": {
+  "en": {
+   "sourceDoc": "Source publication",
+   "tabOverview": "Overview",
+   "tabData": "Data & sources",
+   "filterLabel": "Areas",
+   "reset": "Reset",
+   "searchPh": "Search an indicator, an area, a year…",
+   "btnCsv": "Download CSV",
+   "btnJson": "Download JSON",
+   "thIndicator": "Indicator",
+   "thArea": "Area",
+   "thPeriod": "Period",
+   "thValue": "Value",
+   "thUnit": "Unit",
+   "thPage": "Page",
+   "thStatus": "Check",
+   "noRows": "No figure matches this search.",
+   "statusOk": "Verified",
+   "statusWarn": "To review",
+   "provLabel": "Read from the source document, page",
+   "calloutTitle": "Read this before reusing the figures",
+   "calloutBody": "These figures were extracted from a PDF by a language model and then checked automatically against the source text. Rows marked “To review” failed at least one check and have not been confirmed by a statistician. Always cite the original publication, not this dashboard.",
+   "dataTitle": "Data & sources",
+   "dataLede": "Every figure on this dashboard, with the page it came from and the line of text it was read from. Search, sort, open a row to see the source, export.",
+   "limTitle": "Limitations",
+   "methTitle": "How this dashboard was built",
+   "methBody": "Text was extracted from the PDF page by page. A rules-based reader and a language model each transcribed the tables independently, and every cell was checked for page provenance, quoted evidence, unit and range, reconciliation with published totals, and agreement between the two readings. The notebook, the prompts and the verification report are in the repository.",
+   "fSource": "Source",
+   "fLicence": "Licence",
+   "fBuilt": "Built with",
+   "fContact": "Contact",
+   "fBuiltBody": "Python, an LLM extraction pipeline, Chart.js. No tracking, no cookies, no server — a single HTML file.",
+   "stamp": "Dashboard generated on {date}. Figures are the responsibility of the source institution; the presentation is the responsibility of the team that built this page.",
+   "syntheticWarn": "Demonstration data — fictional country, for training purposes only.",
+   "kicker": "ET DU DÉVELOPPEMENT – Union-Discipline-Travail",
+   "title": "Economic Indicators",
+   "subtitle": "",
+   "ovTitle": "Overview",
+   "ovLede": "This page presents the latest annual and monthly evolutions, average annual inflation and price‑level indices for selected sectors and countries.",
+   "limBody": "Values 100.3, 101.2, 101.4, 101.6, 101.9, 102.1, 102.3 and 102.4 are outside the plausible range for the indicator evolution_niveau_prix.",
+   "publisher": "National Institute of Statistics",
+   "period": ""
+  },
+  "fr": {
+   "sourceDoc": "Publication source",
+   "tabOverview": "Vue d'ensemble",
+   "tabData": "Données et sources",
+   "filterLabel": "Zones",
+   "reset": "Réinitialiser",
+   "searchPh": "Chercher un indicateur, une zone, une année…",
+   "btnCsv": "Télécharger le CSV",
+   "btnJson": "Télécharger le JSON",
+   "thIndicator": "Indicateur",
+   "thArea": "Zone",
+   "thPeriod": "Période",
+   "thValue": "Valeur",
+   "thUnit": "Unité",
+   "thPage": "Page",
+   "thStatus": "Contrôle",
+   "noRows": "Aucun chiffre ne correspond à cette recherche.",
+   "statusOk": "Vérifié",
+   "statusWarn": "À revoir",
+   "provLabel": "Lu dans le document source, page",
+   "calloutTitle": "À lire avant de réutiliser les chiffres",
+   "calloutBody": "Ces chiffres ont été extraits d'un PDF par un modèle de langage, puis contrôlés automatiquement contre le texte source. Les lignes marquées « À revoir » ont échoué à au moins un contrôle et n'ont pas été confirmées par un statisticien. Citez toujours la publication d'origine, pas ce tableau de bord.",
+   "dataTitle": "Données et sources",
+   "dataLede": "Tous les chiffres de ce tableau de bord, avec la page dont ils proviennent et la ligne de texte dont ils ont été lus. Cherchez, triez, ouvrez une ligne pour voir la source, exportez.",
+   "limTitle": "Limites",
+   "methTitle": "Comment ce tableau de bord a été construit",
+   "methBody": "Le texte a été extrait du PDF page par page. Un lecteur à base de règles et un modèle de langage ont transcrit les tableaux indépendamment, et chaque cellule a été contrôlée : provenance de page, citation vérifiée, unité et plage, réconciliation avec les totaux publiés, et accord entre les deux lectures. Le notebook, les prompts et le rapport de vérification sont dans le dépôt.",
+   "fSource": "Source",
+   "fLicence": "Licence",
+   "fBuilt": "Réalisé avec",
+   "fContact": "Contact",
+   "fBuiltBody": "Python, une chaîne d'extraction par LLM, Chart.js. Aucun traceur, aucun cookie, aucun serveur — un seul fichier HTML.",
+   "stamp": "Tableau de bord généré le {date}. Les chiffres relèvent de la responsabilité de l'institution source ; la présentation relève de la responsabilité de l'équipe qui a construit cette page.",
+   "syntheticWarn": "Données de démonstration — pays fictif, à usage pédagogique uniquement.",
+   "kicker": "ET DU DÉVELOPPEMENT – Union-Discipline-Travail",
+   "title": "Indicateurs économiques",
+   "subtitle": "",
+   "ovTitle": "Vue d’ensemble",
+   "ovLede": "Cette page présente les dernières évolutions annuelles et mensuelles, l’inflation moyenne annuelle et les indices de niveau des prix pour les secteurs et pays sélectionnés.",
+   "limBody": "Les valeurs 100,3 ; 101,2 ; 101,4 ; 101,6 ; 101,9 ; 102,1 ; 102,3 et 102,4 sont hors du domaine plausible pour l’indicateur evolution_niveau_prix.",
+   "publisher": "Institut National de la Statistique",
+   "period": ""
+  }
+ },
+ "overviewScatter": {
+  "x": "evolutions_annuelles",
+  "y": "evolutions_mensuelles",
+  "title": {
+   "en": "Monthly changes against Annual changes",
+   "fr": "Évolutions mensuelles et Évolutions annuelles"
+  },
+  "sub": {
+   "en": "One point per area — an association, not a causal claim",
+   "fr": "Un point par zone — une association, pas une relation causale"
+  },
+  "src": {
+   "en": "No significance test performed.",
+   "fr": "Aucun test de significativité réalisé."
+  }
+ }
+}

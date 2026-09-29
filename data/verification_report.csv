@@ -1,0 +1,96 @@
+indicator,area,period,value,unit,page,model,provenance,evidence,unit_range,arithmetic,cross_read,status,reason
+evolutions_annuelles,IHPC,Juillet 2026,1.9,%,4,openai/gpt-oss-120b,True,False,True,True,no-row,dropped,the quoted source line does not appear on that page
+evolutions_annuelles,Produitsalimentairesetboissonsnonalcoolisées,Juillet 2026,2.9,%,4,openai/gpt-oss-120b,True,False,True,True,no-row,dropped,the quoted source line does not appear on that page
+evolutions_annuelles,Restaurantsethôtels,Juillet 2026,2.0,%,4,openai/gpt-oss-120b,True,False,True,True,no-row,dropped,the quoted source line does not appear on that page
+evolutions_annuelles,Transports,Juillet 2026,2.4,%,4,openai/gpt-oss-120b,True,False,True,True,no-row,dropped,the quoted source line does not appear on that page
+evolutions_annuelles,InformationetCommunication,Juillet 2026,-1.3,%,4,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+evolutions_mensuelles,IHPC,Juillet 2026,0.1,%,4,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+evolutions_mensuelles,Produitsalimentairesetboissonsnonalcoolisées,Juillet 2026,0.8,%,4,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+evolutions_mensuelles,Transports,Juillet 2026,0.4,%,4,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+evolutions_mensuelles,InformationetCommunication,Juillet 2026,-0.7,%,4,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+evolutions_mensuelles,Santé,Juillet 2026,-0.4,%,4,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+evolutions_mensuelles,lesprixdesproduitsénergétiques,Juillet 2026,-1.2,%,4,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+evolutions_mensuelles,produitsfrais,Juillet 2026,0.9,%,4,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+inflation_moyenne_annuelle,Inflation moyenne annuelle,Juillet 2026,0.9,%,4,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+inflation_moyenne_annuelle,Inflation moyenne annuelle,Juillet 2026,0.2,point,4,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+evolution_niveau_prix,Bénin,Pondération,959.0,,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit 'None' not allowed for evolution_niveau_prix; 959 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Bénin,juin-25,103.2,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,103.2 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Bénin,mars-26,102.3,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,102.3 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Bénin,avr-26,102.4,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,102.4 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Bénin,mai-26,102.6,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,102.6 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Bénin,juin-26,102.7,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,102.7 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Bénin,1 mois,0.1,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Bénin,3 mois,0.4,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Bénin,12 mois,-0.4,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Burkina-Faso,Pondération,1046.0,,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit 'None' not allowed for evolution_niveau_prix; 1046 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Burkina-Faso,juin-25,105.0,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,105.0 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Burkina-Faso,mars-26,103.5,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,103.5 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Burkina-Faso,avr-26,103.6,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,103.6 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Burkina-Faso,mai-26,105.0,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,105.0 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Burkina-Faso,juin-26,107.0,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,107.0 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Burkina-Faso,1 mois,1.9,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Burkina-Faso,3 mois,3.4,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Burkina-Faso,12 mois,1.9,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Côte d'Ivoire,Pondération,3373.0,,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit 'None' not allowed for evolution_niveau_prix; 3373 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Côte d'Ivoire,juin-25,104.0,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,104.0 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Côte d'Ivoire,mars-26,105.0,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,105.0 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Côte d'Ivoire,avr-26,105.0,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,105.0 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Côte d'Ivoire,mai-26,105.3,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,105.3 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Côte d'Ivoire,juin-26,105.8,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,105.8 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Côte d'Ivoire,1 mois,0.5,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Côte d'Ivoire,3 mois,0.8,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Côte d'Ivoire,12 mois,1.8,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Guinée-Bissau,Pondération,97.0,,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit 'None' not allowed for evolution_niveau_prix
+evolution_niveau_prix,Guinée-Bissau,juin-25,103.8,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,103.8 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Guinée-Bissau,mars-26,103.7,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,103.7 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Guinée-Bissau,avr-26,103.7,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,103.7 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Guinée-Bissau,mai-26,103.0,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,103.0 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Guinée-Bissau,juin-26,103.2,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,103.2 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Guinée-Bissau,1 mois,0.1,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Guinée-Bissau,3 mois,-0.5,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Guinée-Bissau,12 mois,-0.6,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Mali,Pondération,1148.0,,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit 'None' not allowed for evolution_niveau_prix; 1148 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Mali,juin-25,109.6,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,109.6 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Mali,mars-26,105.7,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,105.7 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Mali,avr-26,106.2,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,106.2 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Mali,mai-26,107.0,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,107.0 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Mali,juin-26,108.0,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,108.0 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Mali,1 mois,1.0,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Mali,3 mois,2.2,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Mali,12 mois,-1.4,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Niger,Pondération,943.0,,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit 'None' not allowed for evolution_niveau_prix; 943 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Niger,juin-25,105.2,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,105.2 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Niger,mars-26,98.1,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Niger,avr-26,98.8,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Niger,mai-26,100.3,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,100.3 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Niger,juin-26,102.1,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,102.1 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Niger,1 mois,1.8,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Niger,3 mois,4.0,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Niger,12 mois,-2.9,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Sénégal,Pondération,1827.0,,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit 'None' not allowed for evolution_niveau_prix; 1827 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Sénégal,juin-25,101.2,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,101.2 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Sénégal,mars-26,101.9,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,101.9 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Sénégal,avr-26,101.4,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,101.4 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Sénégal,mai-26,101.6,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,101.6 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Sénégal,juin-26,101.6,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,101.6 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Sénégal,1 mois,0.0,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Sénégal,3 mois,-0.3,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Sénégal,12 mois,0.4,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Togo,Pondération,607.0,,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit 'None' not allowed for evolution_niveau_prix; 607 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Togo,juin-25,106.1,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,106.1 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Togo,mars-26,104.5,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,104.5 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Togo,avr-26,104.6,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,104.6 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Togo,mai-26,105.0,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,105.0 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Togo,juin-26,106.2,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,106.2 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,Togo,1 mois,1.2,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Togo,3 mois,1.7,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,Togo,12 mois,0.1,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,UEMOA*,Pondération,10000.0,,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit 'None' not allowed for evolution_niveau_prix; 10000 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,UEMOA*,juin-25,104.4,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,104.4 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,UEMOA*,mars-26,103.4,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,103.4 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,UEMOA*,avr-26,103.5,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,103.5 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,UEMOA*,mai-26,104.0,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,104.0 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,UEMOA*,juin-26,104.8,%,5,openai/gpt-oss-120b,True,True,False,True,row-only,review,104.8 is outside the plausible range for evolution_niveau_prix
+evolution_niveau_prix,UEMOA*,1 mois,0.7,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,UEMOA*,3 mois,1.3,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+evolution_niveau_prix,UEMOA*,12 mois,0.4,%,5,openai/gpt-oss-120b,True,True,True,True,row-only,verified,

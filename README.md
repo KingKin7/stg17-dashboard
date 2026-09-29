@@ -1,12 +1,6 @@
-**Live dashboard: <https://kingkin7.github.io/stg17-dashboard/>**
+# Population Census Results 2021
 
-Rebuilt by running the notebook in this repository against the source publication. Last published 2026-09-29.
-
----
-
-# Economic Indicators
-
-Bilingual (EN/FR) dashboard built from **ET DU DÉVELOPPEMENT Union-Discipline-Travail**, pages 4, 5, 6.
+Bilingual (EN/FR) dashboard built from **RÉSULTATS RGPH 2021**, pages 6, 10, 20.
 
 Built during the STG17 technical workshop *Emerging Issues, Emerging Practice*
 (African Development Bank / AU STATAFRIC), lab 02 — from a statistical document
@@ -39,9 +33,9 @@ Results of the run that produced this page:
 
 | Outcome | Cells |
 |---|---|
-| verified | 39 |
-| published but flagged | 52 |
-| discarded | 4 |
+| verified | 0 |
+| published but flagged | 63 |
+| discarded | 0 |
 
 ## Reproducing this
 
